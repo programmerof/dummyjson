@@ -1,0 +1,148 @@
+{
+  "courseDetails": {
+    "courseTitle": "Computer Architecture",
+    "courseNo": "CSC213",
+    "nature": "Theory + Lab",
+    "semester": "III",
+    "fullMarks": "60 + 20 + 20",
+    "passMarks": "24 + 8 + 8",
+    "creditHrs": 3
+  },
+  "courseDescription": "This course encompasses concepts of instruction set architecture, micro-architecture organization, and system architecture. It delves into the programmer’s abstraction of a computer, internal representation at the register and functional unit level, and organization at the cache and bus level.",
+  "courseObjectives": [
+    "Discuss representation of data and algorithms for data operations.",
+    "Demonstrate different operations in terms of Micro-operations.",
+    "Explain the architecture of a basic computer and micro-programmed control unit.",
+    "Understand memory and I/O organization of a typical computer system.",
+    "Demonstrate benefits of pipelined systems."
+  ],
+  "courseContents": {
+    "unit1": {
+      "title": "Data Representation",
+      "hours": 4,
+      "topics": [
+        "Binary Representation, BCD, Alphanumeric Representation",
+        "Complements, Fixed Point representation",
+        "Representing Negative Numbers, Floating Point Representation",
+        "Arithmetic with Complements, Overflow, Detecting Overflow",
+        "Other Binary Codes: Gray Code, Self Complementing Code, Weighted Code, Excess-3 Code, EBCDIC",
+        "Error Detection Codes: Parity Bit, Odd Parity, Even parity, Parity Generator & Checker"
+      ]
+    },
+    "unit2": {
+      "title": "Register Transfer and Microoperations",
+      "hours": 5,
+      "topics": [
+        "Microoperation, Register Transfer Language, Register Transfer, Control Function",
+        "Arithmetic Microoperations: Binary Adder, Binary Adder-subtractor, Binary Incrementer, Arithmetic Circuit",
+        "Logic Microoperations, Hardware Implementation, Applications of Logic Microoperations",
+        "Shift Microoperations: Logical Shift, Circular shift, Arithmetic Shift, Hardware Implementation of Shifter"
+      ]
+    },
+    "unit3": {
+      "title": "Basic Computer Organization and Design",
+      "hours": 8,
+      "topics": [
+        "Instruction Code, Operation Code, Stored Program Concept",
+        "Registers and memory of Basic Computer, Common Bus System for Basic Computer",
+        "Instruction Format, Instruction Set Completeness, Control Unit of Basic Computer, Control Timing Signals",
+        "Instruction Cycle of Basic computer, Determining Type of Instruction",
+        "Memory Reference Instructions, Input-Output Instructions, Program Interrupt & Interrupt Cycle",
+        "Description and Flowchart of Basic Computer"
+      ]
+    },
+    "unit4": {
+      "title": "Microprogrammed Control",
+      "hours": 4,
+      "topics": [
+        "Control Word, Microprogram, Control Memory, Control Address Register, Sequencer",
+        "Address Sequencing, Conditional Branch, Mapping of Instructions",
+        "Subroutines, Microinstruction Format, Symbolic Microinstructions",
+        "Design of Control Unit"
+      ]
+    },
+    "unit5": {
+      "title": "Central Processing Unit",
+      "hours": 4,
+      "topics": [
+        "Major Components of CPU, CPU Organization",
+        "Instruction Formats, Addressing Modes, Data Transfer and manipulation",
+        "Program Control, Subroutine Call and Return, Types of Interrupt",
+        "RISC vs CISC, Pros and Cons of RISC and CISC, Overlapped Register Windows"
+      ]
+    },
+    "unit6": {
+      "title": "Pipelining",
+      "hours": 6,
+      "topics": [
+        "Parallel Processing, Multiple Functional Units, Flynn’s Classification",
+        "Pipelining: Concept and Demonstration with Example, Speedup Equation",
+        "Floating Point addition and Subtraction with Pipelining",
+        "Instruction Level Pipelining: Instruction Cycle, Three & Four-Segment Instruction Pipeline, Pipeline Conflicts and Solutions",
+        "Vector Processing, Applications, Vector Operations, Matrix Multiplication"
+      ]
+    },
+    "unit7": {
+      "title": "Computer Arithmetic",
+      "hours": 6,
+      "topics": [
+        "Addition and Subtraction with Signed Magnitude Data",
+        "Addition and Subtraction with Signed 2’s Complement Data",
+        "Multiplication of Signed Magnitude Data, Booth Multiplication",
+        "Division of Signed magnitude Data, Divide Overflow"
+      ]
+    },
+    "unit8": {
+      "title": "Input Output Organization",
+      "hours": 4,
+      "topics": [
+        "Input-Output Interface: I/O Bus and Interface Modules, I/O vs. Memory Bus, Isolated vs. Memory-Mapped I/O",
+        "Asynchronous Data Transfer: Strobe, Handshaking",
+        "Modes of Transfer: Programmed I/O, Interrupt-Initiated I/O, Direct memory Access",
+        "Priority Interrupt: Polling, Daisy-Chaining, Parallel Priority Interrupt",
+        "Direct Memory Access, Input-Output Processor, DMA vs. IOP"
+      ]
+    },
+    "unit9": {
+      "title": "Memory Organization",
+      "hours": 4,
+      "topics": [
+        "Memory Hierarchy, Main Memory, RAM and ROM Chips, Memory address Map",
+        "Memory Connection to CPU, Auxiliary Memory (magnetic Disk, Magnetic Tape)",
+        "Associative Memory: Hardware Organization, Match Logic, Read Operation, Write Operation",
+        "Cache Memory: Locality of Reference, Hit & Miss Ratio, Mapping, Write Policies"
+      ]
+    }
+  },
+  "labWorks": [
+    "Simulate features like overflow, data representation by using VHDL",
+    "Simulate the design of different units by using VHDL",
+    "Simulate pipelining by using VHDL",
+    "Implement algorithms for computer arithmetic using a high-level language like C or C++"
+  ],
+  "textBooks": [
+    {
+      "author": "M. Morris Mano",
+      "title": "Computer System Architecture",
+      "publisher": "Prentice-Hall of India, Pvt. Ltd.",
+      "edition": "Third edition",
+      "year": 2007
+    }
+  ],
+  "referenceBooks": [
+    {
+      "author": "William Stallings",
+      "title": "Computer Organization and Architecture",
+      "publisher": "Prentice-Hall of India, Pvt. Ltd.",
+      "edition": "Seventh edition",
+      "year": 2005
+    },
+    {
+      "author": "Vincent P. Heuring and Harry F. Jordan",
+      "title": "Computer System Design and Architecture",
+      "publisher": "Prentice-Hall of India, Pvt. Ltd.",
+      "edition": "Second edition",
+      "year": 2003
+    }
+  ]
+}
