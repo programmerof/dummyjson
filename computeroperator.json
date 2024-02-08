@@ -1,0 +1,1546 @@
+[
+    {
+      "id": 13,
+      "category": "Types of Computers",
+      "question": "Which of the following is the most powerful type of computer?",
+      "options": [
+        { "id": 1, "text": "Super micro" },
+        { "id": 2, "text": "Super conductor" },
+        { "id": 3, "text": "Microcomputer" },
+        { "id": 4, "text": "Super computer" },
+        { "id": 5, "text": "Mega frame" }
+      ],
+      "answer": { "id": 4, "text": "Super computer" }
+    },
+    {
+      "id": 14,
+      "category": "Technical Knowledge",
+      "question": "Which of the following people probably has the least amount of technical knowledge?",
+      "options": [
+        { "id": 1, "text": "Programmer" },
+        { "id": 2, "text": "User" },
+        { "id": 3, "text": "System analyst" },
+        { "id": 4, "text": "Computer operator" },
+        { "id": 5, "text": "Computer professional" }
+      ],
+      "answer": { "id": 2, "text": "User" }
+    },
+    {
+      "id": 15,
+      "category": "Central Processing Unit",
+      "question": "The Central Processing Unit (CPU) consists of:",
+      "options": [
+        { "id": 1, "text": "Input, output and processing" },
+        { "id": 2, "text": "Control unit, primary storage & secondary storage" },
+        { "id": 3, "text": "Control unit, arithmetic-logic unit, primary storage" },
+        { "id": 4, "text": "None of the above" },
+        { "id": 5, "text": "All of the above" }
+      ],
+      "answer": { "id": 3, "text": "Control unit, arithmetic-logic unit, primary storage" }
+    },
+    {
+      "id": 16,
+      "category": "Computer Components",
+      "question": "This is the part of the computer system that one can touch",
+      "options": [
+        { "id": 1, "text": "hardware" },
+        { "id": 2, "text": "data" },
+        { "id": 3, "text": "software" },
+        { "id": 4, "text": "input" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 1, "text": "hardware" }
+    },
+    {
+      "id": 17,
+      "category": "Optical Storage",
+      "question": "Reusable optical storage will typically have the acronym ___",
+      "options": [
+        { "id": 1, "text": "CD" },
+        { "id": 2, "text": "RW" },
+        { "id": 3, "text": "DVD" },
+        { "id": 4, "text": "ROM" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 2, "text": "RW" }
+    },
+    {
+      "id": 18,
+      "category": "Computer Software",
+      "question": "The __________ tells the computer how to use its components.",
+      "options": [
+        { "id": 1, "text": "utility" },
+        { "id": 2, "text": "network" },
+        { "id": 3, "text": "operating system" },
+        { "id": 4, "text": "application program" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 3, "text": "operating system" }
+    },
+    {
+      "id": 19,
+      "category": "Utility Programs",
+      "question": "A(n) __________ is a program that makes the computer easier to use.",
+      "options": [
+        { "id": 1, "text": "application" },
+        { "id": 2, "text": "utility" },
+        { "id": 3, "text": "network" },
+        { "id": 4, "text": "operating system" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 2, "text": "utility" }
+    },
+    {
+      "id": 20,
+      "category": "Computer History",
+      "question": "The ‘Difference Analyzer’ was created in the early 1920s by __",
+      "options": [
+        { "id": 1, "text": "Peter Norton" },
+        { "id": 2, "text": "Douglas Knuth" },
+        { "id": 3, "text": "Vannevar Bush" },
+        { "id": 4, "text": "Alan Kay" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 3, "text": "Vannevar Bush" }
+    },
+    {
+      "id": 21,
+      "category": "Networks",
+      "question": "The most important or powerful computer in a typical network.",
+      "options": [
+        { "id": 1, "text": "desktop" },
+        { "id": 2, "text": "network client" },
+        { "id": 3, "text": "network server" },
+        { "id": 4, "text": "network station" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 3, "text": "network server" }
+    },
+    {
+      "id": 22,
+      "category": "Accessing Supercomputers",
+      "question": "To access a mainframe or supercomputer, users often use a ___",
+      "options": [
+        { "id": 1, "text": "terminal" },
+        { "id": 2, "text": "node" },
+        { "id": 3, "text": "desktop" },
+        { "id": 4, "text": "handheld" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 1, "text": "terminal" }
+    },
+    {
+      "id": 23,
+      "category": "Database Design",
+      "question": "What database function allows you to define the data your database is storing?",
+      "options": [
+        { "id": 1, "text": "Definition wizard" },
+        { "id": 2, "text": "Query Function" },
+        { "id": 3, "text": "Design view" },
+        { "id": 4, "text": "Data dictionary" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 4, "text": "Data dictionary" }
+    },
+    {
+      "id": 24,
+      "category": "Database Attributes",
+      "question": "If you wanted to tell the database management system that a specific attribute contained numbers only, what would you need to set?",
+      "options": [
+        { "id": 1, "text": "Data category" },
+        { "id": 2, "text": "Data type" },
+        { "id": 3, "text": "Data dictionary" },
+        { "id": 4, "text": "Data definition" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 2, "text": "Data type" }
+    },
+    {
+      "id": 25,
+      "category": "Database Keys",
+      "question": "What key distinctly identifies a record in a database table?",
+      "options": [
+        { "id": 1, "text": "Main key" },
+        { "id": 2, "text": "Primary key" },
+        { "id": 3, "text": "Principal key" },
+        { "id": 4, "text": "Major key" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 2, "text": "Primary key" }
+    },
+    {
+      "id": 26,
+      "category": "Database Keys",
+      "question": "What key links records from one database table to a record or records in another database table?",
+      "options": [
+        { "id": 1, "text": "Primary key" },
+        { "id": 2, "text": "Principal key" },
+        { "id": 3, "text": "Foreign key" },
+        { "id": 4, "text": "Link key" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 3, "text": "Foreign key" }
+    },
+    {
+      "id": 27,
+      "category": "Database Relationships",
+      "question": "When you link one database table to another database table, what are you creating?",
+      "options": [
+        { "id": 1, "text": "Primary link" },
+        { "id": 2, "text": "Connectivity" },
+        { "id": 3, "text": "Relationships" },
+        { "id": 4, "text": "Referential integrity" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 3, "text": "Relationships" }
+    },
+    {
+      "id": 28,
+      "category": "Database Management",
+      "question": "What would you need to establish if you wanted to insure that the key in one database table was the same as a key in another database table?",
+      "options": [
+        { "id": 1, "text": "Top-level grouping" },
+        { "id": 2, "text": "Connectivity" },
+        { "id": 3, "text": "Referential integrity" },
+        { "id": 4, "text": "Field properties" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 3, "text": "Referential integrity" }
+    },
+    {
+      "id": 29,
+      "category": "Database Tools",
+      "question": "What database tool would you use to find answers to your questions about data stored in your database?",
+      "options": [
+        { "id": 1, "text": "Queries" },
+        { "id": 2, "text": "Tables" },
+        { "id": 3, "text": "Show" },
+        { "id": 4, "text": "Q&A" },
+        { "id": 5, "text": "None of these" }
+      ],
+      "answer": { "id": 1, "text": "Queries" }
+    },
+    {
+          "id": 30,
+          "category": "Excel Worksheets",
+          "question": "When we describe, or define, the categories of information we collect in an Excel worksheet, what type of table are we creating?",
+          "options": [
+            { "id": 1, "text": "Categorization" },
+            { "id": 2, "text": "Classification" },
+            { "id": 3, "text": "Explanation" },
+            { "id": 4, "text": "List definition" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 4, "text": "List definition" }
+        },
+        {
+          "id": 31,
+          "category": "Excel Functions",
+          "question": "If you wished to limit what you would see on an Excel worksheet, what data function would you use?",
+          "options": [
+            { "id": 1, "text": "Sort" },
+            { "id": 2, "text": "Filter" },
+            { "id": 3, "text": "Conditional format" },
+            { "id": 4, "text": "Data analysis" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 2, "text": "Filter" }
+        },
+        {
+          "id": 32,
+          "category": "Excel Tools",
+          "question": "If you wished to highlight, not hide, some information in a worksheet because it met some criteria, what Excel tool would you use?",
+          "options": [
+            { "id": 1, "text": "Table" },
+            { "id": 2, "text": "Format" },
+            { "id": 3, "text": "Conditional Format" },
+            { "id": 4, "text": "Filter" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 3, "text": "Conditional Format" }
+        },
+        {
+          "id": 33,
+          "category": "Excel Features",
+          "question": "What Excel tool allows you to create quickly and automatically summary data from a large data set?",
+          "options": [
+            { "id": 1, "text": "Conditional formatting" },
+            { "id": 2, "text": "Sorting" },
+            { "id": 3, "text": "Pivot tables" },
+            { "id": 4, "text": "Field lists" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 3, "text": "Pivot tables" }
+        },
+        {
+          "id": 34,
+          "category": "Excel Filtering",
+          "question": "When creating a custom filter in Excel, which of the following would not be considered a Boolean operator?",
+          "options": [
+            { "id": 1, "text": "If" },
+            { "id": 2, "text": "And" },
+            { "id": 3, "text": "Or" },
+            { "id": 4, "text": "Not" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 1, "text": "If" }
+        },
+        {
+          "id": 35,
+          "category": "Excel Worksheet Habits",
+          "question": "Which of the following is a good habit to get into when creating a worksheet?",
+          "options": [
+            { "id": 1, "text": "Placing titles for columns in the first row of data" },
+            { "id": 2, "text": "Using conditional formatting to spot spelling errors" },
+            { "id": 3, "text": "Inserting comments in each cell to define that data or type of data" },
+            { "id": 4, "text": "Grouping records according to some classification" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 1, "text": "Placing titles for columns in the first row of data" }
+        },
+        {
+          "id": 36,
+          "category": "Information Collections",
+          "question": "What term is used to describe a collection of information that you can use to build reports or discover facts about an environment?",
+          "options": [
+            { "id": 1, "text": "Database" },
+            { "id": 2, "text": "Web site" },
+            { "id": 3, "text": "Wiki" },
+            { "id": 4, "text": "Relation" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 1, "text": "Database" }
+        },
+        {
+          "id": 37,
+          "category": "Database Software",
+          "question": "Microsoft's Access and Corel's Paradox are both examples of which type of software?",
+          "options": [
+            { "id": 1, "text": "Network database systems" },
+            { "id": 2, "text": "Relational database systems" },
+            { "id": 3, "text": "Flat-file database systems" },
+            { "id": 4, "text": "Hierarchical database systems" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 2, "text": "Relational database systems" }
+        },
+        {
+          "id": 38,
+          "category": "Database Models",
+          "question": "What type of graphical model is used to define a database?",
+          "options": [
+            { "id": 1, "text": "Flowchart" },
+            { "id": 2, "text": "E-R diagram" },
+            { "id": 3, "text": "Organizational model" },
+            { "id": 4, "text": "Programming model" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 2, "text": "E-R diagram" }
+        },
+        {
+          "id": 39,
+          "category": "Database Development",
+          "question": "After you develop a model for your database, you should then _____ it before building it.",
+          "options": [
+            { "id": 1, "text": "normalize" },
+            { "id": 2, "text": "design" },
+            { "id": 3, "text": "plan" },
+            { "id": 4, "text": "approve" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 1, "text": "normalize" }
+        },
+        {
+          "id": 40,
+          "category": "Database Structure",
+          "question": "Which of the following contains information about the structure of a database?",
+          "options": [
+            { "id": 1, "text": "Database management system" },
+            { "id": 2, "text": "Data dictionary" },
+            { "id": 3, "text": "Data repository" },
+            { "id": 4, "text": "Data warehouse" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 2, "text": "Data dictionary" }
+        },
+        {
+          "id": 41,
+          "category": "Programming Language Rules",
+          "question": "The rules of a language are called its __________.",
+          "options": [
+            { "id": 1, "text": "structure" },
+            { "id": 2, "text": "code" },
+            { "id": 3, "text": "syntax" },
+            { "id": 4, "text": "rigidity" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 3, "text": "syntax" }
+        },
+        {
+          "id": 42,
+          "category": "Programming Language Portability",
+          "question": "A language that can be written on one platform and executed on another platform is said to be __________.",
+          "options": [
+            { "id": 1, "text": "portable" },
+            { "id": 2, "text": "robust" },
+            { "id": 3, "text": "third generation" },
+            { "id": 4, "text": "dynamic" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 1, "text": "portable" }
+        },
+        {
+          "id": 43,
+          "category": "Programming Technology",
+          "question": "__________ is Microsoft’s latest entry into the programming arena.",
+          "options": [
+            { "id": 1, "text": "Java" },
+            { "id": 2, "text": ".NET" },
+            { "id": 3, "text": "Visual Basic" },
+            { "id": 4, "text": "Pascal" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 2, "text": ".NET" }
+        },
+        {
+          "id": 44,
+          "category": "Web Content Development",
+          "question": "A next-generation Web content development language, __________ typically refers to a suite of technologies that allow developers to store data in a readable format.",
+          "options": [
+            { "id": 1, "text": "HTML" },
+            { "id": 2, "text": "XSL" },
+            { "id": 3, "text": "XML" },
+            { "id": 4, "text": "PHP" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 3, "text": "XML" }
+        },
+        {
+          "id": 45,
+          "category": "JavaScript Development",
+          "question": "JavaScript was developed by __________ to run inside of web pages.",
+          "options": [
+            { "id": 1, "text": "Microsoft" },
+            { "id": 2, "text": "Sun" },
+            { "id": 3, "text": "Oracle" },
+            { "id": 4, "text": "Netscape" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 4, "text": "Netscape" }
+        },
+        {
+          "id": 46,
+          "category": "XML Technology",
+          "question": "This technology is used to convert XML into HTML.",
+          "options": [
+            { "id": 1, "text": "CSS" },
+            { "id": 2, "text": "XHTML" },
+            { "id": 3, "text": "PHP" },
+            { "id": 4, "text": "XSL" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 4, "text": "XSL" }
+        },
+        {
+          "id": 47,
+          "category": "Windows Registry",
+          "question": "The __________ is a special database that holds information about the computer’s user, installed programs and hardware devices.",
+          "options": [
+            { "id": 1, "text": "dynamic link library" },
+            { "id": 2, "text": "initialization file" },
+            { "id": 3, "text": "compiled help module" },
+            { "id": 4, "text": "Windows Registry" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 4, "text": "Windows Registry" }
+        },
+        {
+          "id": 48,
+          "category": "Programming Tools",
+          "question": "A(n) __________ converts all the source code into machine code, creating an executable file.",
+          "options": [
+            { "id": 1, "text": "linker" },
+            { "id": 2, "text": "compiler" },
+            { "id": 3, "text": "assembler" },
+            { "id": 4, "text": "interpreter" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 2, "text": "compiler" }
+        },
+        {
+          "id": 49,
+          "category": "Algorithm Definition",
+          "question": "A series of steps that always results in an answer is the definition of __________.",
+          "options": [
+            { "id": 1, "text": "heuristic" },
+            { "id": 2, "text": "flowchart" },
+            { "id": 3, "text": "algorithm" },
+            { "id": 4, "text": "pseudo code" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 3, "text": "algorithm" }
+        },
+        {
+          "id": 50,
+          "category": "Attribute Example",
+          "question": "The color of an object is an example of a(n) __________.",
+          "options": [
+            { "id": 1, "text": "attribute" },
+            { "id": 2, "text": "detail" },
+            { "id": 3, "text": "listing" },
+            { "id": 4, "text": "specification" },
+            { "id": 5, "text": "None of these" }
+          ],
+          "answer": { "id": 1, "text": "attribute" }
+        },
+        {
+              "id": 51,
+              "category": "File Formats",
+              "question": "A(n) __________ file contains information in an indexed and cross-linked format.",
+              "options": [
+                { "id": 1, "text": "executable" },
+                { "id": 2, "text": "initialization" },
+                { "id": 3, "text": "help" },
+                { "id": 4, "text": "library" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "help" }
+            },
+            {
+              "id": 52,
+              "category": "Programming Concepts",
+              "question": "A(n) __________ encapsulates data and functionality.",
+              "options": [
+                { "id": 1, "text": "structured program" },
+                { "id": 2, "text": "selection statement" },
+                { "id": 3, "text": "object" },
+                { "id": 4, "text": "program" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "selection statement" }
+            },
+            {
+              "id": 53,
+              "category": "File Types",
+              "question": "__________ are text files containing OS commands.",
+              "options": [
+                { "id": 1, "text": "Initialization files" },
+                { "id": 2, "text": "Batch files" },
+                { "id": 3, "text": "Executable files" },
+                { "id": 4, "text": "Help files" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "Batch files" }
+            },
+            {
+              "id": 54,
+              "category": "Internet Laws",
+              "question": "The __________ prevents unlawful access to voice communications by wire.",
+              "options": [
+                { "id": 1, "text": "Electronic Communications Privacy Act" },
+                { "id": 2, "text": "Freedom of Information Act" },
+                { "id": 3, "text": "USA Patriot Act" },
+                { "id": 4, "text": "Privacy Act of 1974" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 1, "text": "Electronic Communications Privacy Act" }
+            },
+            {
+              "id": 55,
+              "category": "Email Protection",
+              "question": "Which of the following will not protect you from spam?",
+              "options": [
+                { "id": 1, "text": "spam blockers" },
+                { "id": 2, "text": "e-mail rules" },
+                { "id": 3, "text": "popup blocker" },
+                { "id": 4, "text": "filters" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "popup blocker" }
+            },
+            {
+              "id": 56,
+              "category": "Internet Security",
+              "question": "A __________’s main purpose is to prohibit unauthorized access to your computer via the Internet.",
+              "options": [
+                { "id": 1, "text": "popup blocker" },
+                { "id": 2, "text": "firewall" },
+                { "id": 3, "text": "spyware blocker" },
+                { "id": 4, "text": "spam assassin" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "firewall" }
+            },
+            {
+              "id": 57,
+              "category": "Windows System Tools",
+              "question": "To read the system messages and warnings, access the __________ in Windows.",
+              "options": [
+                { "id": 1, "text": "system manager" },
+                { "id": 2, "text": "control panel" },
+                { "id": 3, "text": "event viewer" },
+                { "id": 4, "text": "message screen" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "event viewer" }
+            },
+            {
+              "id": 58,
+              "category": "Backup Procedures",
+              "question": "To create a copy of files in the event of system failure, you create a __________.",
+              "options": [
+                { "id": 1, "text": "restore file" },
+                { "id": 2, "text": "backup" },
+                { "id": 3, "text": "firewall" },
+                { "id": 4, "text": "redundancy" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "backup" }
+            },
+            {
+              "id": 59,
+              "category": "System Security",
+              "question": "If configured correctly, the __________ will prevent interaction with your computer after a specified time period.",
+              "options": [
+                { "id": 1, "text": "firewall" },
+                { "id": 2, "text": "filter" },
+                { "id": 3, "text": "screen saver" },
+                { "id": 4, "text": "popup blocker" },
+                { "id": 5, "text": "virus" }
+              ],
+              "answer": { "id": 3, "text": "screen saver" }
+            },
+            {
+              "id": 60,
+              "category": "Data Recovery",
+              "question": "To recover files from a backup, you perform a __________.",
+              "options": [
+                { "id": 1, "text": "restore" },
+                { "id": 2, "text": "scan" },
+                { "id": 3, "text": "unerase" },
+                { "id": 4, "text": "copy" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 1, "text": "restore" }
+            },
+            {
+              "id": 61,
+              "category": "Security Threats",
+              "question": "A __________ is anything that can cause harm.",
+              "options": [
+                { "id": 1, "text": "vulnerability" },
+                { "id": 2, "text": "phish" },
+                { "id": 3, "text": "Threat" },
+                { "id": 4, "text": "spoof" },
+                { "id": 5, "text": "All of the above" }
+              ],
+              "answer": { "id": 3, "text": "Threat" }
+            },
+            {
+              "id": 62,
+              "category": "Security Threats",
+              "question": "In the right setting a thief will steal your information by simply watching what you type.",
+              "options": [
+                { "id": 1, "text": "snagging" },
+                { "id": 2, "text": "spying" },
+                { "id": 3, "text": "social engineering" },
+                { "id": 4, "text": "shoulder surfing" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 4, "text": "shoulder surfing" }
+            },
+            {
+              "id": 63,
+              "category": "Security Threats",
+              "question": "---------- A hacker contacts you by phone or email and attempts to acquire your password.",
+              "options": [
+                { "id": 1, "text": "spoofing" },
+                { "id": 2, "text": "phishing" },
+                { "id": 3, "text": "spamming" },
+                { "id": 4, "text": "bugging" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "phishing" }
+            },
+            {
+              "id": 64,
+              "category": "Power Protection",
+              "question": "This power protection device includes a battery that provides a few minutes of power.",
+              "options": [
+                { "id": 1, "text": "surge suppressor" },
+                { "id": 2, "text": "line conditioner" },
+                { "id": 3, "text": "generator" },
+                { "id": 4, "text": "UPS" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 4, "text": "UPS" }
+            },
+            {
+              "id": 65,
+              "category": "Security Threats",
+              "question": "A hacker that changes or forges information in an electronic resource is engaging in __________.",
+              "options": [
+                { "id": 1, "text": "denial of service" },
+                { "id": 2, "text": "sniffing" },
+                { "id": 3, "text": "terrorism" },
+                { "id": 4, "text": "data diddling" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 4, "text": "data diddling" }
+            },
+            {
+              "id": 66,
+              "category": "Security Threats",
+              "question": "The __________ of a threat measures its potential impact on a system.",
+              "options": [
+                { "id": 1, "text": "vulnerabilities" },
+                { "id": 2, "text": "countermeasures" },
+                { "id": 3, "text": "degree of harm" },
+                { "id": 4, "text": "susceptibility" },
+                { "id": 5, "text": "none of these" }
+              ],
+              "answer": { "id": 3, "text": "degree of harm" }
+            },
+            {
+              "id": 67,
+              "category": "Web Concepts",
+              "question": "Which of the following identifies a specific web page and its computer on the Web?",
+              "options": [
+                { "id": 1, "text": "Web site" },
+                { "id": 2, "text": "Web site address" },
+                { "id": 3, "text": "URL" },
+                { "id": 4, "text": "Domain Name" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 4, "text": "Domain Name" }
+            },
+            {
+              "id": 68,
+              "category": "Software",
+              "question": "Software, such as Explorer and Firefox, are referred to as _____.",
+              "options": [
+                { "id": 1, "text": "Systems software" },
+                { "id": 2, "text": "Browsers" },
+                { "id": 3, "text": "Internet tools" },
+                { "id": 4, "text": "None of these" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "Browsers" }
+            },
+            {
+              "id": 69,
+              "category": "Internet Service Providers",
+              "question": "Which following ISP is free?",
+              "options": [
+                { "id": 1, "text": "CompuServe" },
+                { "id": 2, "text": "AOL" },
+                { "id": 3, "text": "NetZero" },
+                { "id": 4, "text": "MSN" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "NetZero" }
+            },
+            {
+              "id": 70,
+              "category": "Internet Infrastructure",
+              "question": "When internet data leaves your campus, it normally goes to a(n) ______ before moving toward its destination.",
+              "options": [
+                { "id": 1, "text": "Internet backbone" },
+                { "id": 2, "text": "Network access point" },
+                { "id": 3, "text": "Base station" },
+                { "id": 4, "text": "Communication system" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "Network access point" }
+            },
+            {
+              "id": 71,
+              "category": "Internet Service Providers",
+              "question": "MCI and AT&T are examples of which of the following?",
+              "options": [
+                { "id": 1, "text": "Social networks" },
+                { "id": 2, "text": "Communications systems" },
+                { "id": 3, "text": "Internet service providers" },
+                { "id": 4, "text": "Mobisodes" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "Internet service providers" }
+            },
+            {
+              "id": 72,
+              "category": "Telecommunications",
+              "question": "What type of telecommunications hardware allows you to access the web?",
+              "options": [
+                { "id": 1, "text": "Browser" },
+                { "id": 2, "text": "Modem" },
+                { "id": 3, "text": "FTP protocol" },
+                { "id": 4, "text": "IRC" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "Modem" }
+            },
+            {
+              "id": 73,
+              "category": "Email",
+              "question": "E-mail addresses separate the user name from the ISP using the __________ symbol",
+              "options": [
+                { "id": 1, "text": "&" },
+                { "id": 2, "text": "@" },
+                { "id": 3, "text": "%" },
+                { "id": 4, "text": "*" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "@" }
+            },
+            {
+              "id": 74,
+              "category": "Email Protocols",
+              "question": "The mail server as defined in the text uses the __________ protocol",
+              "options": [
+                { "id": 1, "text": "HTTP" },
+                { "id": 2, "text": "FTP" },
+                { "id": 3, "text": "POP" },
+                { "id": 4, "text": "SMTP" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 3, "text": "POP" }
+            },
+            {
+              "id": 75,
+              "category": "Email",
+              "question": "When sending an e-mail, the __________ line describes the contents of the message.",
+              "options": [
+                { "id": 1, "text": "to" },
+                { "id": 2, "text": "subject" },
+                { "id": 3, "text": "contents" },
+                { "id": 4, "text": "CC" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 2, "text": "subject" }
+            },
+            {
+              "id": 76,
+              "category": "Email",
+              "question": "Unsolicited commercial email is commonly known as __________.",
+              "options": [
+                { "id": 1, "text": "junk" },
+                { "id": 2, "text": "hoaxes" },
+                { "id": 3, "text": "spam" },
+                { "id": 4, "text": "hypertext" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 3, "text": "spam" }
+            },
+            {
+              "id": 77,
+              "category": "Internet Protocols",
+              "question": "News servers utilize __________ to distribute documents to readers.",
+              "options": [
+                { "id": 1, "text": "NNTP" },
+                { "id": 2, "text": "NEWS" },
+                { "id": 3, "text": "HTTP" },
+                { "id": 4, "text": "FTP" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 1, "text": "NNTP" }
+            },
+            {
+              "id": 78,
+              "category": "Internet Forums",
+              "question": "Discussion groups may have a __________ who monitors the postings and enforces the site’s rules.",
+              "options": [
+                { "id": 1, "text": "judge" },
+                { "id": 2, "text": "sysop" },
+                { "id": 3, "text": "narrator" },
+                { "id": 4, "text": "censor" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "sysop" }
+            },
+            {
+              "id": 79,
+              "category": "Internet Forums",
+              "question": "A message with replies on a newsgroup is often called a __________.",
+              "options": [
+                { "id": 1, "text": "post" },
+                { "id": 2, "text": "list" },
+                { "id": 3, "text": "thread" },
+                { "id": 4, "text": "comment" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 3, "text": "thread" }
+            },
+            {
+              "id": 80,
+              "category": "Internet History",
+              "question": "The Internet was originally a project for this government agency.",
+              "options": [
+                { "id": 1, "text": "ARPA" },
+                { "id": 2, "text": "NSA" },
+                { "id": 3, "text": "NSF" },
+                { "id": 4, "text": "FCC" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 1, "text": "ARPA" }
+            },
+            {
+              "id": 81,
+              "category": "Web Concepts",
+              "question": "A word in a web page that, when clicked, opens another document.",
+              "options": [
+                { "id": 1, "text": "anchor" },
+                { "id": 2, "text": "URL" },
+                { "id": 3, "text": "Hyperlink" },
+                { "id": 4, "text": "reference" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 3, "text": "Hyperlink" }
+            },
+            {
+              "id": 82,
+              "category": "Networks",
+              "question": "A network’s __________ is the central structure that connects other portions of the network.",
+              "options": [
+                { "id": 1, "text": "trunk" },
+                { "id": 2, "text": "backbone" },
+                { "id": 3, "text": "protocol" },
+                { "id": 4, "text": "server" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "backbone" }
+            },
+            {
+              "id": 83,
+              "category": "Web Protocols",
+              "question": "__________ is the protocol that supports linking from one web page to another page.",
+              "options": [
+                { "id": 1, "text": "HTML" },
+                { "id": 2, "text": "IP" },
+                { "id": 3, "text": "HTTP" },
+                { "id": 4, "text": "FTP" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 3, "text": "HTTP" }
+            },
+            {
+              "id": 84,
+              "category": "Bookmarks",
+              "question": "You can organize your bookmarks using __________.",
+              "options": [
+                { "id": 1, "text": "structures" },
+                { "id": 2, "text": "containers" },
+                { "id": 3, "text": "folders" },
+                { "id": 4, "text": "menus" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "folders" }
+            },
+            {
+              "id": 85,
+              "category": "Browsing",
+              "question": "The browser’s __________ keeps a list of web pages you have visited during the current session.",
+              "options": [
+                { "id": 1, "text": "history" },
+                { "id": 2, "text": "cache" },
+                { "id": 3, "text": "favorites" },
+                { "id": 4, "text": "trail" },
+                { "id": 5, "text": "All of the above" }
+              ],
+              "answer": { "id": 1, "text": "history" }
+            },
+            {
+              "id": 86,
+              "category": "Search Engines",
+              "question": "A __________ organizes the web into categories.",
+              "options": [
+                { "id": 1, "text": "search engine" },
+                { "id": 2, "text": "encyclopedia" },
+                { "id": 3, "text": "archive" },
+                { "id": 4, "text": "directory" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 4, "text": "directory" }
+            },
+            {
+              "id": 87,
+              "category": "Search Techniques",
+              "question": "To match all of the words in your search, the Boolean __________ operator should be used.",
+              "options": [
+                { "id": 1, "text": "and" },
+                { "id": 2, "text": "or" },
+                { "id": 3, "text": "xor" },
+                { "id": 4, "text": "both" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 1, "text": "and" }
+            },
+            {
+              "id": 88,
+              "category": "Accounting and IT",
+              "question": "What type of accountants may recommend controls for an organization's computer systems?",
+              "options": [
+                { "id": 1, "text": "Environment accountant" },
+                { "id": 2, "text": "Internal accountant" },
+                { "id": 3, "text": "Government accountant" },
+                { "id": 4, "text": "Public accountant" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 2, "text": "Internal accountant" }
+            },
+            {
+              "id": 89,
+              "category": "Accounting and IT",
+              "question": "Which IT area is well-established in Accounting?",
+              "options": [
+                { "id": 1, "text": "Multimedia systems" },
+                { "id": 2, "text": "Web development" },
+                { "id": 3, "text": "Statistical analysis" },
+                { "id": 4, "text": "Accounting Information Systems" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 4, "text": "Accounting Information Systems" }
+            },
+            {
+              "id": 90,
+              "category": "Accounting and IT",
+              "question": "How do accountants quickly research new government rules and regulations?",
+              "options": [
+                { "id": 1, "text": "With an internal database management systems" },
+                { "id": 2, "text": "Through the Web" },
+                { "id": 3, "text": "With an external database management systems" },
+                { "id": 4, "text": "Through organizational network systems" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 2, "text": "Through the Web" }
+            },
+            {
+              "id": 91,
+              "category": "Security Threats",
+              "question": "Which computer virus records every movement you make on your computer?",
+              "options": [
+                { "id": 1, "text": "Malware Android" },
+                { "id": 2, "text": "Key logger" },
+                { "id": 3, "text": "DoS" },
+                { "id": 4, "text": "Trapper" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "Key logger" }
+            },
+            {
+              "id": 92,
+              "category": "Security Threats",
+              "question": "What program would you use to gain administrative rights to someone's computer?",
+              "options": [
+                { "id": 1, "text": "Bot" },
+                { "id": 2, "text": "Executive Android" },
+                { "id": 3, "text": "Rootkit" },
+                { "id": 4, "text": "Trojan horse" },
+                { "id": 5, "text": "none of these" }
+              ],
+              "answer": { "id": 3, "text": "Rootkit" }
+            },
+            {
+              "id": 93,
+              "category": "Programming",
+              "question": "A remote control that is used to turn on or off some machine is also called a(n) _____.",
+              "options": [
+                { "id": 1, "text": "class" },
+                { "id": 2, "text": "interface" },
+                { "id": 3, "text": "message" },
+                { "id": 4, "text": "instance" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 2, "text": "interface" }
+            },
+            {
+              "id": 94,
+              "category": "Object-Oriented Programming",
+              "question": "In a student grading system, Student Last Name, Student Address, and Final Course Grade would all be classified as what?",
+              "options": [
+                { "id": 1, "text": "Inheritance" },
+                { "id": 2, "text": "Information" },
+                { "id": 3, "text": "Encapsulation" },
+                { "id": 4, "text": "Polymorphism" },
+                { "id": 5, "text": "none of these" }
+              ],
+              "answer": { "id": 2, "text": "Information" }
+            },
+            {
+              "id": 95,
+              "category": "Object-Oriented Programming",
+              "question": "What part of object-oriented technology defines superclass and subclass relationships?",
+              "options": [
+                { "id": 1, "text": "Inheritance" },
+                { "id": 2, "text": "Scalability" },
+                { "id": 3, "text": "Encapsulation" },
+                { "id": 4, "text": "Polymorphism" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 1, "text": "Inheritance" }
+            },
+            {
+              "id": 96,
+              "category": "Object-Oriented Programming",
+              "question": "When an object has many forms, it has _____.",
+              "options": [
+                { "id": 1, "text": "Inheritance" },
+                { "id": 2, "text": "Scalability" },
+                { "id": 3, "text": "Encapsulation" },
+                { "id": 4, "text": "Polymorphism" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 4, "text": "Polymorphism" }
+            },
+            {
+              "id": 97,
+              "category": "Object-Oriented Programming",
+              "question": "What programming language model is organized around \"objects\" rather than \"actions\"?",
+              "options": [
+                { "id": 1, "text": "Java" },
+                { "id": 2, "text": "OOB" },
+                { "id": 3, "text": "Perl" },
+                { "id": 4, "text": "C++" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 2, "text": "OOB" }
+            },
+            {
+              "id": 98,
+              "category": "Programming",
+              "question": "What are the instructions called that tell a system what, how, and when to do something?",
+              "options": [
+                { "id": 1, "text": "Object-oriented technology approach" },
+                { "id": 2, "text": "Object-oriented database" },
+                { "id": 3, "text": "Program" },
+                { "id": 4, "text": "Database management" },
+                { "id": 5, "text": "None of these" }
+              ],
+              "answer": { "id": 3, "text": "Program" }
+            },
+            {
+              "id": 99,
+              "category": "Programming",
+              "question": "What common technique attempts to save time and energy by reducing redundant work in object-oriented programming?",
+              "options": [
+                { "id": 1, "text": "Reduce lines of programming" },
+                { "id": 2, "text": "Reuse of code" },
+                { "id": 3, "text": "Reduce size of systems being developed" },
+                { "id": 4, "text": "Merging different systems together" },
+                { "id": 5, "text": "All of above" }
+              ],
+              "answer": { "id": 2, "text": "Reuse of code" }
+            },
+            {
+                  "id": 100,
+                  "category": "Programming Languages",
+                  "question": "What kind of programming language is Java?",
+                  "options": [
+                    { "id": 1, "text": "Object-oriented programming language" },
+                    { "id": 2, "text": "Relational programming language" },
+                    { "id": 3, "text": "Sixth-generation programming language" },
+                    { "id": 4, "text": "Database management programming language" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 1, "text": "Object-oriented programming language" }
+                },
+                {
+                  "id": 101,
+                  "category": "Internet Technology",
+                  "question": "What type of internet technology sends information to you without you requesting that information?",
+                  "options": [
+                    { "id": 1, "text": "F2b2C" },
+                    { "id": 2, "text": "Infoware" },
+                    { "id": 3, "text": "Push" },
+                    { "id": 4, "text": "Wiki" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 3, "text": "Push" }
+                },
+                {
+                  "id": 102,
+                  "category": "Web Development",
+                  "question": "What is the second generation of the Web called?",
+                  "options": [
+                    { "id": 1, "text": "New web" },
+                    { "id": 2, "text": "Emerging space" },
+                    { "id": 3, "text": "Second life" },
+                    { "id": 4, "text": "Web 2.0" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Web 2.0" }
+                },
+                {
+                  "id": 103,
+                  "category": "Web Technology",
+                  "question": "What type of web technology allows its community members to continuously change the contents on a web site?",
+                  "options": [
+                    { "id": 1, "text": "Intelligent bots" },
+                    { "id": 2, "text": "Social networks" },
+                    { "id": 3, "text": "Wiki" },
+                    { "id": 4, "text": "Blog" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 3, "text": "Wiki" }
+                },
+                {
+                  "id": 104,
+                  "category": "Web Technology",
+                  "question": "What type of web technology provides news that can automatically download right to your desktop?",
+                  "options": [
+                    { "id": 1, "text": "Social network" },
+                    { "id": 2, "text": "RSS feed" },
+                    { "id": 3, "text": "Podcast" },
+                    { "id": 4, "text": "Wiki" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 2, "text": "RSS feed" }
+                },
+                {
+                  "id": 105,
+                  "category": "Web Technology",
+                  "question": "What type of web technology creates an online community where people can make statements and others can read and respond to those statements?",
+                  "options": [
+                    { "id": 1, "text": "I-Journal" },
+                    { "id": 2, "text": "Podcast" },
+                    { "id": 3, "text": "ASP" },
+                    { "id": 4, "text": "Blog" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Blog" }
+                },
+                {
+                  "id": 106,
+                  "category": "Web Technology",
+                  "question": "What type of technology allows you to verbally speak with someone over the Internet?",
+                  "options": [
+                    { "id": 1, "text": "Wiki" },
+                    { "id": 2, "text": "Social network" },
+                    { "id": 3, "text": "Ephone" },
+                    { "id": 4, "text": "VoIP" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "VoIP" }
+                },
+                {
+                  "id": 107,
+                  "category": "Social Media",
+                  "question": "What kind of environment is Facebook or MySpace part of?",
+                  "options": [
+                    { "id": 1, "text": "Wiki" },
+                    { "id": 2, "text": "Blog" },
+                    { "id": 3, "text": "Social networking" },
+                    { "id": 4, "text": "VoIP" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 3, "text": "Social networking" }
+                },
+                {
+                  "id": 108,
+                  "category": "Technology and Society",
+                  "question": "What term refers to living life through technology?",
+                  "options": [
+                    { "id": 1, "text": "Virtual living" },
+                    { "id": 2, "text": "E-living" },
+                    { "id": 3, "text": "Virtual space" },
+                    { "id": 4, "text": "E-Society" },
+                    { "id": 5, "text": "All of above" }
+                  ],
+                  "answer": { "id": 4, "text": "E-Society" }
+                },
+                {
+                  "id": 109,
+                  "category": "Virtual Reality",
+                  "question": "What 3-D environment allows you to speak to someone who is far away but, at the same time, see them as a holographic image?",
+                  "options": [
+                    { "id": 1, "text": "CAVE" },
+                    { "id": 2, "text": "Virtual space" },
+                    { "id": 3, "text": "E-space" },
+                    { "id": 4, "text": "VoIP" },
+                    { "id": 5, "text": "All of above" }
+                  ],
+                  "answer": { "id": 1, "text": "CAVE" }
+                },
+                {
+                  "id": 110,
+                  "category": "Information Security",
+                  "question": "What type of technology allows you to use your finger, eye, or voice print to secure your information resources?",
+                  "options": [
+                    { "id": 1, "text": "Haptics" },
+                    { "id": 2, "text": "Caves" },
+                    { "id": 3, "text": "Biometrics" },
+                    { "id": 4, "text": "RFID" },
+                    { "id": 5, "text": "All of above" }
+                  ],
+                  "answer": { "id": 3, "text": "Biometrics" }
+                },
+                {
+                  "id": 111,
+                  "category": "Ethics in Technology",
+                  "question": "In reference to your ethical structure, how much do you identify with the person or persons who will receive the benefit or suffer the harm is called which of the following?",
+                  "options": [
+                    { "id": 1, "text": "Consequences" },
+                    { "id": 2, "text": "Relatedness" },
+                    { "id": 3, "text": "Likelihood of effect" },
+                    { "id": 4, "text": "Society's opinion" },
+                    { "id": 5, "text": "none of these" }
+                  ],
+                  "answer": { "id": 2, "text": "Relatedness" }
+                },
+                {
+                  "id": 112,
+                  "category": "Information Security",
+                  "question": "Which tracking program records every keystroke you make on the computer?",
+                  "options": [
+                    { "id": 1, "text": "ITrack/ULead" },
+                    { "id": 2, "text": "eFollow" },
+                    { "id": 3, "text": "Key logger" },
+                    { "id": 4, "text": "Stalking software" },
+                    { "id": 5, "text": "none of these" }
+                  ],
+                  "answer": { "id": 3, "text": "Key logger" }
+                },
+                {
+                  "id": 113,
+                  "category": "Identity Theft",
+                  "question": "What is a common medium used for thieves to steal others' identities?",
+                  "options": [
+                    { "id": 1, "text": "Telephone" },
+                    { "id": 2, "text": "Pick pocketing" },
+                    { "id": 3, "text": "Burglary" },
+                    { "id": 4, "text": "Email" },
+                    { "id": 5, "text": "none of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Email" }
+                },
+                {
+                  "id": 114,
+                  "category": "Cybersecurity",
+                  "question": "What is it called when you are rerouted from your requested internet site to another, undesired site?",
+                  "options": [
+                    { "id": 1, "text": "Phishing" },
+                    { "id": 2, "text": "Pharming" },
+                    { "id": 3, "text": "Redirecting" },
+                    { "id": 4, "text": "Hijacking" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 2, "text": "Pharming" }
+                },
+                {
+                  "id": 115,
+                  "category": "Cybersecurity",
+                  "question": "What is the term that refers to an ad hidden inside software that you downloaded from an internet site?",
+                  "options": [
+                    { "id": 1, "text": "Spam" },
+                    { "id": 2, "text": "Phish" },
+                    { "id": 3, "text": "Cookie" },
+                    { "id": 4, "text": "Adware" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Adware" }
+                },
+                {
+                  "id": 116,
+                  "category": "Internet Security",
+                  "question": "What type of monitoring file is commonly used on and accepted from Internet sites?",
+                  "options": [
+                    { "id": 1, "text": "Phishes" },
+                    { "id": 2, "text": "Smartware" },
+                    { "id": 3, "text": "Cookies" },
+                    { "id": 4, "text": "Trojans" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 3, "text": "Cookies" }
+                },
+                {
+                  "id": 117,
+                  "category": "Ethics in Technology",
+                  "question": "Ideally, your sense of what is ethical should tell you which of the following?",
+                  "options": [
+                    { "id": 1, "text": "What to do" },
+                    { "id": 2, "text": "Who to do it to" },
+                    { "id": 3, "text": "When to do it" },
+                    { "id": 4, "text": "Where to do it" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 1, "text": "What to do" }
+                },
+                {
+                  "id": 118,
+                  "category": "Cybersecurity",
+                  "question": "What type of software secretly collects information about you and your internet habits?",
+                  "options": [
+                    { "id": 1, "text": "Detectware" },
+                    { "id": 2, "text": "Spam" },
+                    { "id": 3, "text": "Spyware" },
+                    { "id": 4, "text": "Pharming" },
+                    { "id": 5, "text": "All the above" }
+                  ],
+                  "answer": { "id": 3, "text": "Spyware" }
+                },
+                {
+                  "id": 119,
+                  "category": "Intellectual Property",
+                  "question": "In an educational setting, instructors have access to and use a whole host of copyrighted materials. What allows these individuals to make use of these materials?",
+                  "options": [
+                    { "id": 1, "text": "Patent laws" },
+                    { "id": 2, "text": "Fair Use Doctrine" },
+                    { "id": 3, "text": "Intellectual property laws" },
+                    { "id": 4, "text": "Higher educational board" },
+                    { "id": 5, "text": "All the above" }
+                  ],
+                  "answer": { "id": 2, "text": "Fair Use Doctrine" }
+                },
+                {
+                  "id": 120,
+                  "category": "Information Systems",
+                  "question": "What type of information systems environment reuses self-contained blocks of code in its systems?",
+                  "options": [
+                    { "id": 1, "text": "Modular systems" },
+                    { "id": 2, "text": "Block based coding" },
+                    { "id": 3, "text": "Component programming" },
+                    { "id": 4, "text": "Service-oriented architecture" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Service-oriented architecture" }
+                },
+                {
+                  "id": 121,
+                  "category": "Information Systems",
+                  "question": "What term refers to the structure, and substructures, of an organization's information systems?",
+                  "options": [
+                    { "id": 1, "text": "Subsystems" },
+                    { "id": 2, "text": "System formations" },
+                    { "id": 3, "text": "IT Configurations" },
+                    { "id": 4, "text": "Infrastructure" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Infrastructure" }
+                },
+                {
+                  "id": 122,
+                  "category": "Information Systems",
+                  "question": "When two or more computers are able to share information, what is this called?",
+                  "options": [
+                    { "id": 1, "text": "Shared systems" },
+                    { "id": 2, "text": "Interoperability" },
+                    { "id": 3, "text": "Information interchange" },
+                    { "id": 4, "text": "Data exchange" },
+                    { "id": 5, "text": "All the above" }
+                  ],
+                  "answer": { "id": 2, "text": "Interoperability" }
+                },
+                {
+                  "id": 123,
+                  "category": "Information Systems",
+                  "question": "When there is little or no exchange of information within an organization's information systems, we say that the systems are _____.",
+                  "options": [
+                    { "id": 1, "text": "Independent" },
+                    { "id": 2, "text": "Autonomous" },
+                    { "id": 3, "text": "Decentralized" },
+                    { "id": 4, "text": "Self-sufficient" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Decentralized" }
+                },
+                {
+                  "id": 124,
+                  "category": "Information Systems",
+                  "question": "When information and processing are spread throughout the organization via a network, we say the systems are _____.",
+                  "options": [
+                    { "id": 1, "text": "Dependent" },
+                    { "id": 2, "text": "Reliant" },
+                    { "id": 3, "text": "Distributed" },
+                    { "id": 4, "text": "Self-supporting" },
+                    { "id": 5, "text": "All the above" }
+                  ],
+                  "answer": { "id": 3, "text": "Distributed" }
+                },
+                {
+                  "id": 125,
+                  "category": "Information Systems",
+                  "question": "When one computer provides services to another computer, the environment is a(n) _____ infrastructure.",
+                  "options": [
+                    { "id": 1, "text": "Client/server" },
+                    { "id": 2, "text": "Dependent" },
+                    { "id": 3, "text": "Reliant" },
+                    { "id": 4, "text": "Independent" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 1, "text": "Client/server" }
+                },
+                {
+                  "id": 126,
+                  "category": "Information Systems",
+                  "question": "What type of infrastructure are most enterprise applications employing?",
+                  "options": [
+                    { "id": 1, "text": "Network" },
+                    { "id": 2, "text": "Distributed" },
+                    { "id": 3, "text": "Complex" },
+                    { "id": 4, "text": "Tiered" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Tiered" }
+                },
+                {
+                  "id": 127,
+                  "category": "Information Systems",
+                  "question": "When you continuously measure yourself against your peers, you are employing _____.",
+                  "options": [
+                    { "id": 1, "text": "Benchmarking" },
+                    { "id": 2, "text": "Balancing" },
+                    { "id": 3, "text": "Stability" },
+                    { "id": 4, "text": "Reliability" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 1, "text": "Benchmarking" }
+                },
+                {
+                  "id": 128,
+                  "category": "Information Systems",
+                  "question": "What is the term used to describe the organization of a company's information systems department?",
+                  "options": [
+                    { "id": 1, "text": "IT structure" },
+                    { "id": 2, "text": "IS department" },
+                    { "id": 3, "text": "Information systems design" },
+                    { "id": 4, "text": "IT configuration" },
+                    { "id": 5, "text": "All the above" }
+                  ],
+                  "answer": { "id": 2, "text": "IS department" }
+                },
+                {
+                  "id": 129,
+                  "category": "Information Systems",
+                  "question": "Which of the following is a major component of an information system's infrastructure?",
+                  "options": [
+                    { "id": 1, "text": "Database systems" },
+                    { "id": 2, "text": "End users" },
+                    { "id": 3, "text": "Procedures" },
+                    { "id": 4, "text": "All the above" },
+                    { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "All the above" }
+                },
+                {
+                  "id": 130,
+                  "category": "Information Systems",
+                  "question": "What type of infrastructure do companies employ to work with their customers?",
+                  "options": [
+                  { "id": 1, "text": "Network" },
+                  { "id": 2, "text": "Distributed" },
+                  { "id": 3, "text": "Client/server" },
+                  { "id": 4, "text": "Customer-facing" },
+                  { "id": 5, "text": "None of these" }
+                  ],
+                  "answer": { "id": 4, "text": "Customer-facing" }
+                }
+
+              ]
+              
+             
+          
+          
+        
+     
+      
+  
+  
