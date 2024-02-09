@@ -1,0 +1,61 @@
+{
+    "categories": [
+      {
+        "category_name": "English",
+        "number_of_questions": 40,
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "I like ………… in my spare time",
+            "options": [
+              {"id": "1a", "text": "(a) to reading"},
+              {"id": "1b", "text": "(b) read"},
+              {"id": "1c", "text": "(c) to read"},
+              {"id": "1d", "text": "(d) reading"}
+            ],
+            "answer": "(b) read"
+          },
+          {
+            "id": 2,
+            "question_text": "I went to the bookshop .................... 'Harry Potter'.",
+            "options": [
+              {"id": "2a", "text": "(a) to buy"},
+              {"id": "2b", "text": "(b) to buying"},
+              {"id": "2c", "text": "(c) for to buy"},
+              {"id": "2d", "text": "(d) for buying"}
+            ],
+            "answer": "(a) to buy"
+          }
+        ]
+      },
+      {
+        "category_name": "Math",
+        "number_of_questions": 40,
+        "questions": [
+          {
+            "id": 41,
+            "question_text": "Every rational number is also",
+            "options": [
+              {"id": "41a", "text": "(a) a natural number"},
+              {"id": "41b", "text": "(b) an integer"},
+              {"id": "41c", "text": "(c) a whole number"},
+              {"id": "41d", "text": "(d) a real number"}
+            ],
+            "answer": "(d) a real number"
+          },
+          {
+            "id": 42,
+            "question_text": "Which of the following numbers is rational? (a) -1 (b) 0 (c) 0.5 (d) 3/4",
+            "options": [
+              {"id": "42a", "text": "(a) -1"},
+              {"id": "42b", "text": "(b) 0"},
+              {"id": "42c", "text": "(c) 0.5"},
+              {"id": "42d", "text": "(d) 3/4"}
+            ],
+            "answer": "(d) 3/4"
+          }
+        ]
+      }
+    ]
+  }
+  

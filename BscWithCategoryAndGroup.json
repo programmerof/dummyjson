@@ -1,1103 +1,558 @@
-[
-    {
-      "id": 1,
-      "question": "Given vector A= 2i+3j, the angle between A and y-axis is",
-      "options": [
-        {"text": "Tan^(-1)(3/2)"},
-        {"text": "tan^(-1)(2/3)"},
-        {"text": "sin^(-1)(2/3)"},   
-        {"text": "cos^(-1)(2/3)"}
-      ],
-      "answer": {"text": "Tan^(-1)(3/2)"}
-    },
-    {
-      "id": 2,
-      "question": "A ball is thrown upward and it returns to ground describing a parabolic path. Which of the following remain constant?",
-      "options": [
-        {"text": "Kinetic energy of ball"},
-        {"text": "speed of the ball"},
-        {"text": "Horizontal component of velocity"},
-        {"text": "Vertical components of velocity"}
-      ],
-      "answer": {"text": "Horizontal component of velocity"}
-    },
-    {
-      "id": 3,
-      "question": "A man moves towards a plane mirror with a velocity V in a direction making an angle θ with the normal to the mirror. The magnitude of velocity of the image relative to man normal to mirror will be",
-      "options": [
-        {"text": "2V"},
-        {"text": "2Vcos θ"},
-        {"text": "2Vsin θ"},
-        {"text": "2V/cosθ"}
-      ],
-      "answer": {"text": "2Vsin θ"}
-    },
-    {
-      "id": 4,
-      "question": "When a potential difference is applied across a conductor, only the electrons drift and the current flowing is 1. If the positive ions are also drifted, then the current would have been",
-      "options": [
-        {"text": "Zero"},
-        {"text": "1"},
-        {"text": "less than 1"},
-        {"text": "greater than 1"}
-      ],  
-      "answer": {"text": "1"}
-    },
-    {
-      "id": 5,
-      "question": "The resistance of an incandescent lamp is",
-      "options": [
-        {"text": "greater when switched on"},
-        {"text": "greater when switched of or switched"},  
-        {"text": "greater when switched off"},
-        {"text": "smaller when switched on"}
-      ],
-      "answer": {"text": "greater when switched on"}
-    },
-    {
-      "id": 6,
-      "question": "An electron revolves about a proton in a second excited state. The angular momentum of electron is",
-      "options": [
-        {"text": "h/2π"},
-        {"text": "2h/2π"},
-        {"text": "3h/2π"}, 
-        {"text": "Zero"}
-      ],
-      "answer": {"text": "2h/2π"}
-    },
-    {
-      "id": 7,
-      "question": "A bomb is dropped from an aero plane moving horizontally at constant speed. If air resistance is taken into consideration, then the bomb.",
-      "options": [
-        {"text": "Falls on the earth exactly below the aero plane."},  
-        {"text": "Falls on the earth behind the aero plane."},
-        {"text": "Falls on the earth ahead of aero plane"},
-        {"text": "Falls with aero plane."}
-      ],
-      "answer": {"text": "Falls on the earth behind the aero plane."}
-    },
-    {
-      "id": 8, 
-      "question": "The third overtone of a closed organ pipe is equal to second harmonic of an open pipe. Then the ratio of their lengths is equal to",
-      "options": [
-        {"text": "7/4"},
-        {"text": "3/5"},
-        {"text": "3/2"},  
-        {"text": "7/6"}
-      ],
-      "answer": {"text": "3/2"}
-    },
-    {
-      "id": 9,
-      "question": "A light wave is incident normally over a single slit of width 24× 10^-5 cm. The angular position of second are fringe from the central maxima is 30°. ",
-      "options": [
-        {"text": "6000Ȧ"},
-        {"text": "5000Ȧ"}, 
-        {"text": "3000Ȧ"},
-        {"text": "1500Ȧ"}
-      ],
-      "answer": {"text": "3000Ȧ"}
-    },
-    {
-      "id": 10,
-      "question": "The velocity of an electron in the first orbit of H – atom is V. The velocity of an electron in the 2nd orbit of He^+ is",
-      "options": [
-        {"text": "2V"},
-        {"text": "V"},
-        {"text": "V/2"}, 
-        {"text": "V/4"}
-      ],
-      "answer": {"text": "V/2"}
-    },
-    {
-      "id": 11,
-      "question": "A radioactive is to open has a half of 2 year .How long it will take the activity to reduce to 3% of its original value?",
-      "options": [
-        {"text": "4-8yr"},
-        {"text": "7yr"},
-        {"text": "10yr"},
-        {"text": "9.6yr"}
-      ],
-      "answer": {"text": "10yr"}    
-    },
-    {
-      "id": 12,
-      "question": "In a resonance column experiment the first resonance is obtained when the level of the water in tub is 20cm from the open end. Resonance will also be obtained when the water level is at a distance of.",
-      "options": [
-        {"text": "40cm from the open end"},
-        {"text": "60cm from the open end"},
-        {"text": "80cm from the open end"},  
-        {"text": "90cm from the open end"}
-      ],
-      "answer": {"text": "60cm from the open end"}
-    },
-    {
-      "id": 13,
-      "question": "The power disappointed in an AC circuit is Zero if the circuit is",
-      "options": [
-        {"text": "purely resistive"},
-        {"text": "purely inductive only"},
-        {"text": "either purely inductive or purely"},
-        {"text": "LCR circuit"}
-      ],
-      "answer": {"text": "purely inductive only"}
-    },
-    {
-      "id": 14, 
-      "question": "The only elastic modulus that applies to fluid is.",
-      "options": [
-        {"text": "Young’s modulus"},
-        {"text": "shear modulus"},
-        {"text": "modulus of rigidity"},
-        {"text": "Bulk modulus"}
-      ],
-      "answer": {"text": "Bulk modulus"}
-    },
-    {
-      "id": 15,
-      "question": "The capacitive of the capacitor does not depend on", 
-      "options": [
-        {"text": "The medium between the places"},
-        {"text": "the size of the plates"},
-        {"text": "the charge on the plates"},
-        {"text": "the separation between plates"}
-      ],
-      "answer": {"text": "the charge on the plates"}
-    },
-    {
-      "id": 16,
-      "question": "A resistor of resistive R is connected to an ideal battery. If the value of R is decreased, the power dissipated in the resistor will be",
-      "options": [
-        {"text": "increase"},  
-        {"text": "decrease"},
-        {"text": "remain unchanged"},
-        {"text": "data insufficient"}
-      ],
-      "answer": {"text": "increase"}
-    },
-    {
-      "id": 17,
-      "question": "An n-type semi-conductor is",
-      "options": [
-        {"text": "negatively charged"},
-        {"text": "positively charged"}, 
-        {"text": "neutral"},
-        {"text": "negatively or positively charged depending upon the amount of impurity"}
-      ],
-      "answer": {"text": "negatively charged"}
-    },
-    {
-      "id": 18,
-      "question": "For steel y= 2X10^5 N/m^2 The force required to double the length of a steel wire of the area 1 m^2 is",
-      "options": [
-        {"text": "2 x 10^7N"},  
-        {"text": "2:1"},
-        {"text": "1:4"},
-        {"text": "2 x 10^5N"}
-      ],
-      "answer": {"text": "2 x 10^5N"}
-    },
-    {
-      "id": 19,
-      "question": "Two resistor R and 2R are connected in series in an electric circuit. The thermal energy developed in R and 2R are in the ratio",
-      "options": [
-        {"text": "1:2"},
-        {"text": "2:1"},
-        {"text": "1:4"}, 
-        {"text": "4:1"}  
-      ],
-      "answer": {"text": "1:4"}
-    },
-    {
-        "id": 20,
-        "question": "Ferromagnetic materials used in a transformer used in a transformer must have",
+{
+  "Zoology": {
+    "GroupA": [
+      {
+        "id": 1,
+        "question": "The father of zoology is",
         "options": [
-          {"text": "low permeability and high hysteresis loss"},
-          {"text": "high permeability and low hysteresis loss"},
-          {"text": "high permeability and high hysteresis loss"},
-          {"text": "low permeability and low hysteresis loss"}
+          {"id": "a", "text": "Robert Hooke"},
+          {"id": "b", "text": "Aristotle"},
+          {"id": "c", "text": "Linnaeus"},
+          {"id": "d", "text": "Theophrastus"}
         ],
-        "answer": {"text": "high permeability and low hysteresis loss"}
+        "answer": {"id": "b", "text": "Aristotle"}
+      },
+      {
+        "id": 2,
+        "question": "The study of insects is called",
+        "options": [
+          {"id": "a", "text": "Entomology"},
+          {"id": "b", "text": "Parasitology"},
+          {"id": "c", "text": "Mycology"},
+          {"id": "d", "text": "Taxonomy"}
+        ],
+        "answer": {"id": "a", "text": "Entomology"}
+      },
+      {
+        "id": 3,
+        "question": "Which group has a radially symmetrical body",
+        "options": [
+          {"id": "a", "text": "Protozoa"},
+          {"id": "b", "text": "Echinodermata"},
+          {"id": "c", "text": "Annelida"},
+          {"id": "d", "text": "Mollusca"}
+        ],
+        "answer": {"id": "b", "text": "Echinodermata"}
+      },
+      {
+        "id": 4,
+        "question": "Haemocoelom is present in",
+        "options": [
+          {"id": "a", "text": "Arthropoda"},
+          {"id": "b", "text": "Annelida"},
+          {"id": "c", "text": "Fish"},
+          {"id": "d", "text": "Amphibia"}
+        ],
+        "answer": {"id": "a", "text": "Arthropoda"}
+      },
+      {
+        "id": 5,
+        "question": "Water Vascular system is present in",
+        "options": [
+          {"id": "a", "text": "Porifera"},
+          {"id": "b", "text": "Coelenterata"},
+          {"id": "c", "text": "Echinodermata"},
+          {"id": "d", "text": "Arthropoda"}
+        ],
+        "answer": {"id": "c", "text": "Echinodermata"}
+      },
+      {
+        "id": 6,
+        "question": "Operculum is used to cover",
+        "options": [
+          {"id": "a", "text": "Eye"},
+          {"id": "b", "text": "Gill"},
+          {"id": "c", "text": "Mouth"},
+          {"id": "d", "text": "Ear"}
+        ],
+        "answer": {"id": "b", "text": "Gill"}
+      },
+      {
+        "id": 7,
+        "question": "Which one of the following is an insect",
+        "options": [
+          {"id": "a", "text": "Spider"},
+          {"id": "b", "text": "Scorpion"},
+          {"id": "c", "text": "Prawn"},
+          {"id": "d", "text": "Grasshopper"}
+        ],
+        "answer": {"id": "d", "text": "Grasshopper"}
+      },
+      {
+        "id": 8,
+        "question": "Which one is a true fish",
+        "options": [
+          {"id": "a", "text": "Cuttlefish"},
+          {"id": "b", "text": "Starfish"},
+          {"id": "c", "text": "Dogfish"},
+          {"id": "d", "text": "Silverfish"}
+        ],
+        "answer": {"id": "c", "text": "Dogfish"}
+      },
+      {
+        "id": 9,
+        "question": "Which nucleus has a role in conjugation in Paramecium",
+        "options": [
+          {"id": "a", "text": "Mega nucleus"},
+          {"id": "b", "text": "Micronucleus"},
+          {"id": "c", "text": "Macronucleus"},
+          {"id": "d", "text": "Cellular nucleus"}
+        ],
+        "answer": {"id": "b", "text": "Micronucleus"}
+      },
+      {
+        "id": 10,
+        "question": "Which Segment has setae present in earthworm",
+        "options": [
+          {"id": "a", "text": "1°"},
+          {"id": "b", "text": "Last"},
+          {"id": "c", "text": "Clitellar"},
+          {"id": "d", "text": "10°"}
+        ],
+        "answer": {"id": "c", "text": "Clitellar"}
+      },
+      {
+        "id": 11,
+        "question": "Male genital aperture is situated in",
+        "options": [
+          {"id": "a", "text": "14 segment"},
+          {"id": "b", "text": "10 segment"},
+          {"id": "c", "text": "18 segment"},
+          {"id": "d", "text": "17 segment"}
+        ],
+        "answer": {"id": "b", "text": "10 segment"}
+      },
+      {
+        "id": 12,
+        "question": "The function of spermatheca in earthworms is to",
+        "options": [
+          {"id": "a", "text": "Store sperms"},
+          {"id": "b", "text": "Store ova"},
+          {"id": "c", "text": "Store enzyme"},
+          {"id": "d", "text": "Store zygote"}
+        ],
+        "answer": {"id": "a", "text": "Store sperms"}
+      },
+      {
+        "id": 13,
+        "question": "The causative agent of Tuberculosis is",
+        "options": [
+          {"id": "a", "text": "Leishmania"},
+          {"id": "b", "text": "Salmonella"},
+          {"id": "c", "text": "Mycobacterium"},
+          {"id": "d", "text": "Taenia"}
+        ],
+        "answer": {"id": "c", "text": "Mycobacterium"}
+      },
+      {
+        "id": 14,
+        "question": "Which of the following is a non-communicable disease",
+        "options": [
+          {"id": "a", "text": "TB"},
+          {"id": "b", "text": "Kalazar"},
+          {"id": "c", "text": "AIDS"},
+          {"id": "d", "text": "Cancer"}
+        ],
+        "answer": {"id": "d", "text": "Cancer"}
+      },
+      {
+        "id": 15,
+        "question": "Air-borne disease is",
+        "options": [
+          {"id": "a", "text": "Typhoid"},
+          {"id": "b", "text": "TB"},
+          {"id": "c", "text": "Filaria"},
+          {"id": "d", "text": "Cancer"}
+        ],
+        "answer": {"id": "b", "text": "TB"}
+      },
+      {
+        "id": 16,
+        "question": "Which season, frogs usually go for aestivation",
+        "options": [
+          {"id": "a", "text": "Summer"},
+          {"id": "b", "text": "Winter"},
+          {"id": "c", "text": "Rainy"},
+          {"id": "d", "text": "Autumn"}
+        ],
+        "answer": {"id": "a", "text": "Summer"}
+      },
+      {
+        "id": 17,
+        "question": "The artery which supplies the blood to the liver is",
+        "options": [
+          {"id": "a", "text": "Renal"},
+          {"id": "b", "text": "Hepatic"},
+          {"id": "c", "text": "Coronary"},
+          {"id": "d", "text": "Gastric"}
+        ],
+        "answer": {"id": "b", "text": "Hepatic"}
+      },
+      {
+        "id": 18,
+        "question": "The testis of the frog is attached to the peritoneum. This Structure is called",
+        "options": [
+          {"id": "a", "text": "Mesovarian"},
+          {"id": "b", "text": "Retroperitoneal"},
+          {"id": "c", "text": "Nephron"},
+          {"id": "d", "text": "Mesorchium"}
+        ],
+        "answer": {"id": "d", "text": "Mesorchium"}
+      },
+      {
+        "id": 19,
+        "question": "Which one of the following is a vestigial organ",
+        "options": [
+          {"id": "a", "text": "Forelimb"},
+          {"id": "b", "text": "Hind Limb"},
+          {"id": "c", "text": "Appendix"},
+          {"id": "d", "text": "Liver"}
+        ],
+        "answer": {"id": "c", "text": "Appendix"}
+      },
+      {
+        "id": 20,
+        "question": "Miller and Urey expt. is designed for verification",
+        "options": [
+          {"id": "a", "text": "Darwin theory"},
+          {"id": "b", "text": "Oparin's theory"},
+          {"id": "c", "text": "Lamarche theory"},
+          {"id": "d", "text": "Redi theory"}
+        ],
+        "answer": {"id": "b", "text": "Oparin's theory"}
       },
       {
         "id": 21,
-        "question": "The wavelength of the light in two liquids x and y is 3500 A° and 7000 A° respectively. Then the critical angle of x relative to y is",
+        "question": "Theory of “Inheritance of Acquired characters\" was proposed by",
         "options": [
-          {"text": "60°"},
-          {"text": "45°"},
-          {"text": "30°"},
-          {"text": "15°"}
+          {"id": "a", "text": "Darwin"},
+          {"id": "b", "text": "Lamark"},
+          {"id": "c", "text": "Hugo de-Vries"},
+          {"id": "d", "text": "Huxley"}
         ],
-        "answer": {"text": "30°"}
+        "answer": {"id": "b", "text": "Lamark"}
       },
       {
         "id": 22,
-        "question": "In a double slit experiment, the two slits are separated by metal and the screen is placed one meter away. The fringe separation for blue green light of wavelength 500 mm is",
+        "question": "Striped muscle is different from unstriped on the basis of",
         "options": [
-          {"text": "10 mm"},
-          {"text": "0.5 mm"},
-          {"text": "20 mm"},  
-          {"text": "15 mm"}
+          {"id": "a", "text": "Nuclei"},
+          {"id": "b", "text": "Myofibrils"},
+          {"id": "c", "text": "Shape"},
+          {"id": "d", "text": "Dark and light bands"}
         ],
-        "answer": {"text": "10 mm"}
+        "answer": {"id": "a", "text": "Nuclei"}
       },
       {
         "id": 23,
-        "question": "In a photoelectric experiment , If both the intensity and frequency of the incident light are doubled ,then the starred photoelectric current",
+        "question": "Nephrons are found in",
         "options": [
-          {"text": "remain constant"},
-          {"text": "is half"},
-          {"text": "is induced"},
-          {"text": "becomes 4 times"}
+          {"id": "a", "text": "Kidney"},
+          {"id": "b", "text": "Liver"},
+          {"id": "c", "text": "Testis"},
+          {"id": "d", "text": "Ovary"}
         ],
-        "answer": {"text": "becomes 4 times"}
+        "answer": {"id": "a", "text": "Kidney"}
       },
       {
         "id": 24,
-        "question": "If ‘p’ and ‘c’ are momentum and velocity of light respectively. the dimension of pc is same on that of",
+        "question": "Which stage of the embryo, blastocoels present",
         "options": [
-          {"text": "power"},
-          {"text": "force"}, 
-          {"text": "angular momentum"},
-          {"text": "torque"}
+          {"id": "a", "text": "Neurula"},
+          {"id": "b", "text": "Gastrula"},
+          {"id": "c", "text": "Blastula"},
+          {"id": "d", "text": "Morula"}
         ],
-        "answer": {"text": "angular momentum"}
+        "answer": {"id": "c", "text": "Blastula"}
       },
       {
         "id": 25,
-        "question": "The time period of a simple pendulum of length L as measured in an elevator descending with acceleration 9/3 is",
+        "question": "Which one is the hormone released from Adrenal gland",
         "options": [
-          {"text": "2π√3l/2g "},
-          {"text": "π√3l/g "},
-          {"text": "2l/√3l/g "},
-          {"text": ". 2π√2l/g"}
+          {"id": "a", "text": "Glucagon"},
+          {"id": "b", "text": "Insulin"},
+          {"id": "c", "text": "Mineralocorticoides"},
+          {"id": "d", "text": "GSH"}
         ],
-        "answer": {"text": "2π√3l/2g "}
+        "answer": {"id": "c", "text": "Mineralocorticoides"}
       },
       {
-        "id": 26,  
-        "question": "_____ was present at the party.",
+        "id": 26,
+        "question": "The enzyme trypsin is released from",
         "options": [
-          {"text": "All but she"},
-          {"text": "All but herself"},
-          {"text": "All but her"},
-          {"text": "All but myself"}
+          {"id": "a", "text": "Stomach"},
+          {"id": "b", "text": "Intestine"},
+          {"id": "c", "text": "Liver"},
+          {"id": "d", "text": "Pancreas"}
         ],
-        "answer": {"text": "All but herself"}
+        "answer": {"id": "d", "text": "Pancreas"}
       },
       {
         "id": 27,
-        "question": "Quinine is a drug ____ malaria.",
+        "question": "Which of the following is not a covering of the brain in human",
         "options": [
-          {"text": "for"},
-          {"text": "to"},  
-          {"text": "against"},
-          {"text": "on"}
+          {"id": "a", "text": "Duramater"},
+          {"id": "b", "text": "Epithelium"},
+          {"id": "c", "text": "Piamater"},
+          {"id": "d", "text": "Arachnoid"}
         ],
-        "answer": {"text": "against"}
+        "answer": {"id": "b", "text": "Epithelium"}
       },
       {
         "id": 28,
-        "question": "During rainy season, the Koshi was",
+        "question": "The cavity found pelvic girdle of mammal is",
         "options": [
-          {"text": "overflow"},
-          {"text": "overflown"},
-          {"text": "overfly"},
-          {"text": "overflying"}
+          {"id": "a", "text": "Acetabulum"},
+          {"id": "b", "text": "Glenoid cavity"},
+          {"id": "c", "text": "Obturator foramen"},
+          {"id": "d", "text": "Sigmoid notch"}
         ],
-        "answer": {"text": "overflown"}
+        "answer": {"id": "c", "text": "Obturator foramen"}
       },
       {
         "id": 29,
-        "question": "He is as stubborn as a _____.",
+        "question": "Fishes migrating within the ocean is",
         "options": [
-          {"text": "child"},
-          {"text": "bull"},
-          {"text": "donkey"}, 
-          {"text": "mule"}
+          {"id": "a", "text": "Potamodromous"},
+          {"id": "b", "text": "Amphidromous"},
+          {"id": "c", "text": "Catadromous"},
+          {"id": "d", "text": "Ocenodromous"}
         ],
-        "answer": {"text": "donkey"}
+        "answer": {"id": "d", "text": "Ocenodromous"}
       },
       {
         "id": 30,
-        "question": "The principal told the class____ without permission",
+        "question": "Wall lizard moves on the wall due to",
         "options": [
-          {"text": "not to enter"}, 
-          {"text": "Not to have entered"},
-          {"text": "Not entering"},
-          {"text": "do not enter"}
+          {"id": "a", "text": "Vacuum creation"},
+          {"id": "b", "text": "Tail"},
+          {"id": "c", "text": "Leg"},
+          {"id": "d", "text": "Nail"}
         ],
-        "answer": {"text": "not to enter"}
-      }, 
+        "answer": {"id": "d", "text": "Nail"}
+      },
       {
         "id": 31,
-        "question": "I must go____ before the shops are closed",
+        "question": "In vitro fertilization is used for",
         "options": [
-          {"text": "shopping"},
-          {"text": "to shop"},  
-          {"text": "to shopping"},
-          {"text": "shop"}
+          {"id": "a", "text": "Detection of disorder of fetus"},
+          {"id": "b", "text": "Giving birth to the baby"},
+          {"id": "c", "text": "Women unable to give birth"},
+          {"id": "d", "text": "Detection of cancer"}
         ],
-        "answer": {"text": "to shop"}
+        "answer": {"id": "b", "text": "Giving birth to the baby"}
       },
       {
         "id": 32,
-        "question": "A horse neighs so as goats _____.",
+        "question": "Which of the following is a wildlife reserve",
         "options": [
-          {"text": "howl"},
-          {"text": "roar"},
-          {"text": "bleat"}, 
-          {"text": "grunt"}
+          {"id": "a", "text": "Koshi Tappu"},
+          {"id": "b", "text": "Makalu-Barun"},
+          {"id": "c", "text": "Shivapuri"},
+          {"id": "d", "text": "Khaptad"}
         ],
-        "answer": {"text": "bleat"}
+        "answer": {"id": "a", "text": "Koshi Tappu"}
       },
       {
         "id": 33,
-        "question": "The teacher has authority ___ his students.",
+        "question": "Which is an example of reflex action?",
         "options": [
-          {"text": "to"},
-          {"text": "over"},
-          {"text": "with"},
-          {"text": "for"}
+          {"id": "a", "text": "Vision"},
+          {"id": "b", "text": "Eye-blinking"},
+          {"id": "c", "text": "Movement"},
+          {"id": "d", "text": "Reading"}
         ],
-        "answer": {"text": "over"}
-      },
+        "answer": {"id": "c", "text": "Movement"}
+      }
+    ],
+    "GroupB": [
       {
         "id": 34,
-        "question": "This is the place ____ we lived in.",
+        "question": "One mole of CO; contains",
         "options": [
-          {"text": "where"}, 
-          {"text": "which"},
-          {"text": "when"}, 
-          {"text": "how"}
+          {"id": "a", "text": "6.02x 10²³ atoms of C"},
+          {"id": "b", "text": "6.02x 10²³ atoms of O CO,"},
+          {"id": "c", "text": "18.1x 10²³ molecule of"},
+          {"id": "d", "text": "3g atoms of CO,"}
         ],
-        "answer": {"text": "where"}
+        "answer": {"id": "b", "text": "6.02x 10²³ atoms of O CO,"}
       },
       {
         "id": 35,
-        "question": "They have gone shopping,_______",
+        "question": "Real gases will approach the behavior of ideal gas at:",
         "options": [
-          {"text": "Havent’t they?"},
-          {"text": "Didn’t they?"},  
-          {"text": "Had they?"},
-          {"text": "Have they?"}
+          {"id": "a", "text": "low T, low P"},
+          {"id": "b", "text": "low T, high P"},
+          {"id": "c", "text": "high T, high P"},
+          {"id": "d", "text": "high T, low P"}
         ],
-        "answer": {"text": "Have they?"}
+        "answer": {"id": "a", "text": "low T, low P"}
       },
       {
         "id": 36,
-        "question": "Only after meeting him,_____ him well",
+        "question": "The electronic configuration of silver atom in the ground state is:",
         "options": [
-          {"text": "Did I know"},
-          {"text": "Had I know"},
-          {"text": "Had I known"},
-          {"text": "I know"}
+          {"id": "a", "text": "[Ar] 3d¹⁰4s²"},
+          {"id": "b", "text": "[Xe] 4f¹⁴5d¹⁰6s²"},
+          {"id": "c", "text": "[Kr] 4d¹⁰5s¹"},
+          {"id": "d", "text": "[Ne] 3s²3p⁶"}
         ],
-        "answer": {"text": "Had I known"}
+        "answer": {"id": "c", "text": "[Kr] 4d¹⁰5s¹"}
       },
       {
-        "id": 37, 
-        "question": "Which of the following is not a synonym of splendid",
+        "id": 37,
+        "question": "Which of the following is an exothermic process?",
         "options": [
-          {"text": "superb"},  
-          {"text": "sordid"}, 
-          {"text": "excellent"},
-          {"text": "marvelous"}
+          {"id": "a", "text": "Photosynthesis"},
+          {"id": "b", "text": "Respiration"},
+          {"id": "c", "text": "Combustion"},
+          {"id": "d", "text": "Electrolysis"}
         ],
-        "answer": {"text": "sordid"}
+        "answer": {"id": "c", "text": "Combustion"}
       },
       {
         "id": 38,
-        "question": "Feminine of deer is",
+        "question": "The pH of pure water is",
         "options": [
-          {"text": "Do"},
-          {"text": "Dao"},
-          {"text": "Doe"},  
-          {"text": "Doae"}
+          {"id": "a", "text": "7"},
+          {"id": "b", "text": "8"},
+          {"id": "c", "text": "6"},
+          {"id": "d", "text": "5"}
         ],
-        "answer": {"text": "Doe"}
+        "answer": {"id": "a", "text": "7"}
       },
       {
         "id": 39,
-        "question": "______ I open the present for you?",
+        "question": "The process of rusting is an example of",
         "options": [
-          {"text": "Would"}, 
-          {"text": "Must"},
-          {"text": "Shall"}, 
-          {"text": "Going to"}
+          {"id": "a", "text": "Reduction"},
+          {"id": "b", "text": "Oxidation"},
+          {"id": "c", "text": "Sublimation"},
+          {"id": "d", "text": "Condensation"}
         ],
-        "answer": {"text": "Would"}
-      },  
+        "answer": {"id": "b", "text": "Oxidation"}
+      },
       {
         "id": 40,
-        "question": "He is ___ man of high esteem",
+        "question": "The hardest substance available on earth is",
         "options": [
-          {"text": "an"},  
-          {"text": "a"},
-          {"text": "some"},
-          {"text": "none"}
+          {"id": "a", "text": "Gold"},
+          {"id": "b", "text": "Iron"},
+          {"id": "c", "text": "Diamond"},
+          {"id": "d", "text": "Platinum"}
         ],
-        "answer": {"text": "a"}
+        "answer": {"id": "c", "text": "Diamond"}
       },
       {
         "id": 41,
-        "question": "He has a remarkable ____ for the arts.",
+        "question": "Which gas is responsible for the greenhouse effect on earth?",
         "options": [
-          {"text": "talence"},
-          {"text": "talency"},
-          {"text": "talent"}, 
-          {"text": "talents"}
+          {"id": "a", "text": "Oxygen"},
+          {"id": "b", "text": "Carbon dioxide"},
+          {"id": "c", "text": "Helium"},
+          {"id": "d", "text": "Hydrogen"}
         ],
-        "answer": {"text": "talent"}
+        "answer": {"id": "b", "text": "Carbon dioxide"}
       },
       {
         "id": 42,
-        "question": "Snow is falling ____north of the mountains.",
+        "question": "The metal present in the chlorophyll is",
         "options": [
-          {"text": "into"},   
-          {"text": "over"},
-          {"text": "off"},
-          {"text": "down"}
+          {"id": "a", "text": "Iron"},
+          {"id": "b", "text": "Magnesium"},
+          {"id": "c", "text": "Copper"},
+          {"id": "d", "text": "Zinc"}
         ],
-        "answer": {"text": "down"}
+        "answer": {"id": "b", "text": "Magnesium"}
       },
       {
         "id": 43,
-        "question": "I don’t think he ___ come to the meeting tomorrow.",
+        "question": "The main function of the ozone layer is to",
         "options": [
-          {"text": "would"},
-          {"text": "shall"}, 
-          {"text": "used to"},
-          {"text": "might"}
+          {"id": "a", "text": "Prevent global warming"},
+          {"id": "b", "text": "Filter ultraviolet rays from the sun"},
+          {"id": "c", "text": "Increase oxygen levels in the atmosphere"},
+          {"id": "d", "text": "Reduce air pollution"}
         ],
-        "answer": {"text": "might"}
+        "answer": {"id": "b", "text": "Filter ultraviolet rays from the sun"}
       },
       {
         "id": 44,
-        "question": "He is ____ one eyed man.",
+        "question": "Which gas is known as the 'Laughing Gas'?",
         "options": [
-          {"text": "the"},
-          {"text": "an"},
-          {"text": "a"}, 
-          {"text": "none"}
+          {"id": "a", "text": "Oxygen"},
+          {"id": "b", "text": "Carbon dioxide"},
+          {"id": "c", "text": "Nitrous oxide"},
+          {"id": "d", "text": "Hydrogen"}
         ],
-        "answer": {"text": "a"}  
+        "answer": {"id": "c", "text": "Nitrous oxide"}
       },
       {
         "id": 45,
-        "question": "Study of mountains is called:",
+        "question": "Which planet is known as the 'Red Planet'?",
         "options": [
-          {"text": "geology"},
-          {"text": "geography"},
-          {"text": "chromatics"},
-          {"text": "orology"}
+          {"id": "a", "text": "Earth"},
+          {"id": "b", "text": "Mars"},
+          {"id": "c", "text": "Jupiter"},
+          {"id": "d", "text": "Venus"}
         ],
-        "answer": {"text": "orology"}
+        "answer": {"id": "b", "text": "Mars"}
       },
       {
         "id": 46,
-        "question": "The opposite of the word Pernicious is:",
+        "question": "Which metal is the best conductor of electricity?",
         "options": [
-          {"text": "Beneficial"},
-          {"text": "Advantageous"},
-          {"text": "Satisfactory"},
-          {"text": "Fair"}
+          {"id": "a", "text": "Copper"},
+          {"id": "b", "text": "Gold"},
+          {"id": "c", "text": "Silver"},
+          {"id": "d", "text": "Aluminum"}
         ],
-        "answer": {"text": "Beneficial"}
+        "answer": {"id": "c", "text": "Silver"}
       },
       {
         "id": 47,
-        "question": "Grandma is _______ the visit of her grandchildren.",
+        "question": "The largest planet in our solar system is",
         "options": [
-          {"text": "looking forward"},
-          {"text": "looking into"},
-          {"text": "looking for"},
-          {"text": "looking forward to"}
+          {"id": "a", "text": "Earth"},
+          {"id": "b", "text": "Jupiter"},
+          {"id": "c", "text": "Mars"},
+          {"id": "d", "text": "Saturn"}
         ],
-        "answer": {"text": "looking forward to"}
+        "answer": {"id": "b", "text": "Jupiter"}
       },
       {
         "id": 48,
-        "question": "Shyam has done this work and _______.",
+        "question": "Which gas is essential for respiration?",
         "options": [
-          {"text": "so did I"},
-          {"text": "so am i"},
-          {"text": "so have I"},
-          {"text": "is has i"}
+          {"id": "a", "text": "Carbon dioxide"},
+          {"id": "b", "text": "Oxygen"},
+          {"id": "c", "text": "Nitrogen"},
+          {"id": "d", "text": "Hydrogen"}
         ],
-        "answer": {"text": "so have I"}
+        "answer": {"id": "b", "text": "Oxygen"}
       },
       {
         "id": 49,
-        "question": "He _____ in plane crash.",
+        "question": "The currency of Japan is",
         "options": [
-          {"text": "died"},
-          {"text": "has died"},
-          {"text": "have died"},
-          {"text": "in dying"}
+          {"id": "a", "text": "Yen"},
+          {"id": "b", "text": "Won"},
+          {"id": "c", "text": "Ringgit"},
+          {"id": "d", "text": "Baht"}
         ],
-        "answer": {"text": "died"}
+        "answer": {"id": "a", "text": "Yen"}
       },
       {
         "id": 50,
-        "question": "She has resigned herself ______ fate.",
+        "question": "Who wrote 'Romeo and Juliet'?",
         "options": [
-          {"text": "in"},
-          {"text": "to"},
-          {"text": "for"},
-          {"text": "at"}
+          {"id": "a", "text": "William Shakespeare"},
+          {"id": "b", "text": "Charles Dickens"},
+          {"id": "c", "text": "Jane Austen"},
+          {"id": "d", "text": "Mark Twain"}
         ],
-        "answer": {"text": "to"}
-      },
-      {
-        "id": 51,
-        "question": "The domain of the function √(x − 2)(4 − x)  is",
-        "options": [
-          {"text": "[4,∞]"},
-          {"text": "[2, 4]"},
-          {"text": "R-{2, 4}"},
-          {"text": "R-{0}"}
-        ],
-        "answer": {"text": "[2, 4]"}
-      },
-      {
-        "id": 52,
-        "question": "-6≤ x ≤ 1 can be represented as",
-        "options": [
-          {"text": "|2x+5|≤ 7"},
-          {"text": "|2x-5|≤ 7"},
-          {"text": "|2x-5|≤ -7"},
-          {"text": "|22-5|≥ 7"}
-        ],
-        "answer": {"text": "|2x-5|≤ 7"}
-      },
-      {
-        "id": 53,
-        "question": "(A ∪ B) – B =",
-        "options": [
-          {"text": "A=B"},
-          {"text": "A-B"},
-          {"text": "B-A"},
-          {"text": "2B"}
-        ],
-        "answer": {"text": "A-B"}
-      },
-      {
-        "id": 54,
-        "question": "Sin (3Sin−1x) =",
-        "options": [
-          {"text": "3x2"},
-          {"text": "3x − 4x2"},
-          {"text": "3x − 4x3"},
-          {"text": "4x − 3x3"}
-        ],
-        "answer": {"text": "3x − 4x3"}
-      },
-      {
-        "id": 55,
-        "question": "2Cos2θ-5Cosθ +2= 0 (0≤ θ ≤ 360° ). Then, θ is",
-        "options": [
-          {"text": "60°, 135°"},
-          {"text": "60°, 315°"},  
-          {"text": "45°, 135°"},
-          {"text": "60°, 300°"}
-        ],
-        "answer": {"text": "60°, 300°"}
-      },
-      {
-        "id": 56,
-        "question": "If A is symmetric as well as skew-symmetric matrix, then A is",
-        "options": [
-          {"text": "square matrix"},
-          {"text": "scalar matrix"},
-          {"text": "identity matrix"},
-          {"text": "null matrix"}
-        ],
-        "answer": {"text": "null matrix"}
-      },
-      {
-        "id": 57,
-        "question": "If | k 1 0 2 0 k 0 2 −1 | = 0, then k=?",
-        "options": [
-          {"text": "1"},
-          {"text": "-1"},
-          {"text": "2"}, 
-          {"text": "±1"}
-        ],
-        "answer": {"text": "±1"}
-      },
-      {
-        "id": 58,
-        "question": "The system of linear equation will be consistent and independent if they have", 
-        "options": [
-          {"text": "More than one solution"},  
-          {"text": "no solution"},
-          {"text": "exactly one solution"},
-          {"text": "one of these"}
-        ],
-        "answer": {"text": "exactly one solution"}
-      },
-      {
-        "id": 59,
-        "question": "If ax = by = cz and a, b, c are in G.P , then x, y, z are in",
-        "options": [
-          {"text": "A.P"},
-          {"text": "G.P"}, 
-          {"text": "H.P"},
-          {"text": "none"}
-        ],
-        "answer": {"text": "G.P"}
-      },
-      {
-        "id": 60,
-        "question": "The cube roots of (2 + 500 + 2002) 6 p=",  
-        "options": [
-          {"text": "729"},
-          {"text": "512"},
-          {"text": "256"},
-          {"text": "128"}
-        ],
-        "answer": {"text": "512"}
-      },
-      {
-        "id": 61,
-        "question": "The multiplicative inverse of Z= 5(Cos θ + Sinθ ) is",
-        "options": [
-          {"text": "5(Sin θ + iCosθ)"},
-          {"text": "5(Cos θ − iSinθ)"},
-          {"text": "5(Sin θ + iCosθ)"},  
-          {"text": "5(Cos θ + iSinθ)"}
-        ],
-        "answer": {"text": "5(Cos θ − iSinθ)"}
-      },
-      {
-        "id": 62,
-        "question": "The roots of the equation 4x2 – (k − 7)x + 8 = 0 are equal in magnitude, but opposite in sign, then k=",
-        "options": [
-          {"text": "8"},
-          {"text": "-4"},
-          {"text": "7"},
-          {"text": "1/2"}
-        ],
-        "answer": {"text": "-4"}
-      },
-      {
-        "id": 63,
-        "question": "The Points (a, 0), (0, b), and (1, 1) are collinear if",
-        "options": [
-          {"text": "a + b = ab"},  
-          {"text": "a - b = ab"},
-          {"text": "b-a = ab"},
-          {"text": "a+ b+ ab=0"}
-        ],
-        "answer": {"text": "a - b = ab"}
-      },
-      {
-        "id": 64,
-        "question": "Angle between the pair of lines y2 Sin2θ xySin2θ + x2(Cos2θ-1) is",
-        "options": [
-          {"text": "π"},
-          {"text": " π/2 "}, 
-          {"text": ".  π/3"},
-          {"text": " π/4"} 
-        ],
-        "answer": {"text": " π/2 "}
-      },
-      {
-        "id": 65, 
-        "question": "The equation of circle which touches both positive axes and have radius 5 units is",
-        "options": [
-          {"text": "x2+y2-7x-7y+5=0"}, 
-          {"text": "3x2+3y2-12x+5y+8=0"}, 
-          {"text": "x2+y2-10x-10y+25=0"},
-          {"text": "x2  + y2  − 2x + 5y + 18 = 0"}
-        ],
-        "answer": {"text": "x2+y2-10x-10y+25=0"}
-      },
-      {
-        "id": 66,
-        "question": "Equation of normal to the circle x2  + y2  = a2  at any point (x1, y1) is",
-        "options": [
-          {"text": "xx1+yy1 =a2 "},
-          {"text": "xy1 = x, y"},  
-          {"text": "√x12  + y12  − a2  =0"},
-          {"text": "none"}
-        ],
-        "answer": {"text": "√x12  + y12  − a2  =0"}
-      },
-      {
-        "id": 67,
-        "question": "If limx→5 xk −5k x−5  = 500, then k =",
-        "options": [
-          {"text": "3"},
-          {"text": "4"},
-          {"text": "5"},
-          {"text": "6"}
-        ],
-        "answer": {"text": "4"}
-      },
-      {
-        "id": 68,
-        "question": "If limx→5 logx−1 x−e  =",
-        "options": [
-          {"text": "e"},
-          {"text": " 1/e2 "},
-          {"text": "e2"},  
-          {"text": "1/e"}
-        ],
-        "answer": {"text": "e"}
-      },
-      {
-        "id": 69, 
-        "question": " d/dx Cosec−1x =",
-        "options": [
-          {"text": "1/√x2−1/x "},  
-          {"text": "1/√x2−1"},
-          {"text": "−1/√x2−1/x"},
-          {"text": "−1/√1−x2/x"}
-        ],
-        "answer": {"text": "1/√x2−1/x"}
-      },
-      {
-        "id": 70,
-        "question": "x3 y6  = (x + y)9 , then dy/dx =",
-        "options": [
-          {"text": "−y/x"},
-          {"text": "x/y"},
-          {"text": "1/x"},  
-          {"text": "y/x"}
-        ],
-        "answer": {"text": "−y/x"}
-      },
-      {
-        "id": 71,
-        "question": "The point of inflection of the curve y = x3  + 3x2  + 9x + 2 is",
-        "options": [
-          {"text": "6"},
-          {"text": "1"},
-          {"text": "0"},
-          {"text": "-1"}
-        ],
-        "answer": {"text": "0"}
-      },
-      {
-        "id": 72,
-        "question": " ∫  Sin(logt)/t  dt2 1  =",
-        "options": [
-          {"text": "1+2Cos (log2)"}, 
-          {"text": "1- Cos (log2)"},
-          {"text": "1+ Sin (log2)"},
-          {"text": "1+Cos (log2)"}
-        ],
-        "answer": {"text": "1+Cos (log2)"}
-      },  
-      {
-        "id": 73,
-        "question": " ∫  dx/(ex  +e−x)2 2 1  =",
-        "options": [
-          {"text": "ex(ex  +e−x) "},
-          {"text": "dx/2(1 +e−x) "},
-          {"text": "dx/(1 +e2x) "}, 
-          {"text": "dx/2(1 +e2x)"}
-        ],
-        "answer": {"text": "dx/2(1 +e−x) "}
-      },
-      {
-        "id": 74,
-        "question": " ∫ tanx dx =",
-        "options": [
-          {"text": "log Cos x + C"},
-          {"text": "log Sin x +c"},
-          {"text": "-log Cos x + C"}, 
-          {"text": "log tan x +c"}
-        ],
-        "answer": {"text": "-log Cos x + C"}
-      },
-      {
-        "id": 75,
-        "question": "Area bounded by X-axis, the curve y = 3x2  and the ordinates x=2 and x= 4 is",
-        "options": [
-          {"text": "42 square uni"},  
-          {"text": "36 square unit"},
-          {"text": "56 square unit"},
-          {"text": "52 square unit"}
-        ],
-        "answer": {"text": "36 square unit"}
-      },
-      {
-        "id": 76,
-        "question": "Which bound is presence in BeCl2?",
-        "options": [
-          {"text": "Iron"},
-          {"text": "covalent"},
-          {"text": "Co-ordinate"},  
-          {"text": "All of them"}
-        ],
-        "answer": {"text": "covalent"}
-      },
-      {
-        "id": 77, 
-        "question": "Rusting of iron occurs in the presence of",
-        "options": [
-          {"text": "O2  and N2 "},
-          {"text": "O2  only"},  
-          {"text": "moisture only"},
-          {"text": "O2  and moisture"}
-        ],
-        "answer": {"text": "O2  and moisture"}
-      },
-      {
-        "id": 78,
-        "question": "Which element has highest Ist Ionization potential?",
-        "options": [
-          {"text": "B"},
-          {"text": "C"},
-          {"text": "N"}, 
-          {"text": "O"}
-        ],
-        "answer": {"text": "N"}
-      },
-      {
-        "id": 79,
-        "question": "The number of possible alcoholic isomeric for C4H10O are",
-        "options": [
-          {"text": "4"},
-          {"text": "2"},
-          {"text": "3"},
-          {"text": "5"}
-        ],
-        "answer": {"text": "2"}
-      },
-      {
-        "id": 80,
-        "question": "Atomic number was discover by",
-        "options": [
-          {"text": "Neil Bohr"},
-          {"text": "Dalton"},
-          {"text": "Moseley"},
-          {"text": "None"}
-        ],
-        "answer": {"text": "Moseley"}
-      },
-      {
-        "id": 81,
-        "question": "AgBr and PbBr2  are",
-        "options": [
-          {"text": "solution in water"},
-          {"text": "insoluble in water"},
-          {"text": "AgBr solution PbBr2  insoluble in water"},
-          {"text": "None"}
-        ], 
-        "answer": {"text": "insoluble in water"}
-      },
-      {
-        "id": 82,
-        "question": "Atomic-catalyst is:",
-        "options": [
-          {"text": "K2Cr2O7|H2SO4 "},
-          {"text": "Alk.K2HgI4 "},
-          {"text": "Pt | Pto"},
-          {"text": "CaCN2+e"}
-        ],
-        "answer": {"text": "Pt | Pto"}
-      },
-      {
-        "id": 83,
-        "question": "Which one is the one of Zinc",
-        "options": [
-          {"text": "Calamine"},
-          {"text": "Franklinite"}, 
-          {"text": "Both a and b"},
-          {"text": "None"}
-        ],
-        "answer": {"text": "Both a and b"}
-      },
-      {  
-        "id": 84,
-        "question": "The chemical formula of dry bleacher",
-        "options": [
-          {"text": "CaCl2 "},
-          {"text": "H2O2 "},
-          {"text": "H2SO4 "}, 
-          {"text": "All"}
-        ],
-        "answer": {"text": "CaCl2 "}
-      },
-      {
-        "id": 85,
-        "question": "Which one have lowest element electronegativity",
-        "options": [
-          {"text": "F"},
-          {"text": "K"},  
-          {"text": "Li"},
-          {"text": "Ce"}
-        ], 
-        "answer": {"text": "Li"}
-      },
-      {
-        "id": 86,
-        "question": "The position counterparties of an electronic (positions) when combines with electronic gives",
-        "options": [
-          {"text": "α-ray"},
-          {"text": "β-ray"}, 
-          {"text": "γ-ray"},  
-          {"text": "All of this"}
-        ],
-        "answer": {"text": "γ-ray"}
-      },
-      {
-        "id": 87, 
-        "question": "In irreversible reaction",
-        "options": [
-          {"text": "∆G = 0"},
-          {"text": "∆G > 0"},  
-          {"text": "∆G = 1"},
-          {"text": "∆G < 0"}
-        ],
-        "answer": {"text": "∆G < 0"}
-      },
-      {
-        "id": 88,
-        "question": "The molecules formula of absolute alcohol?",
-        "options": [
-          {"text": "C2H5OH"},
-          {"text": "CH3OH"},
-          {"text": "C3H7OH"}, 
-          {"text": "NaCl"}
-        ],
-        "answer": {"text": "C2H5OH"}
-      },
-      {
-        "id": 89,
-        "question": "The Mohr Salt is",
-        "options": [
-          {"text": "K2SO4.Fe2(SO4)3.24H2O"},
-          {"text": "K2SO4.Cr2(SO4)3.24H2O"},
-          {"text": "FeSO4.(NH4)2  SO4.6H2O"},
-          {"text": "None"}
-        ],
-        "answer": {"text": "FeSO4.(NH4)2  SO4.6H2O"}
-      },
-      {
-        "id": 90,
-        "question": "The number of orbital present in an orbit are:",
-        "options": [
-          {"text": "2n2 "},
-          {"text": "n2 "},  
-          {"text": "4l +2"},
-          {"text": "3l + 1"}
-        ],
-        "answer": {"text": "2n2 "}
-      },
-      {
-        "id": 91, 
-        "question": "When phenol is treated with chloroform and NaOH gives salicylic aldehyde the reaction is knows as",
-        "options": [
-          {"text": "Kolbe’s Schmidt reaction"},
-          {"text": "Reimer Tiemann reaction"},
-          {"text": "Hydrogenation"},
-          {"text": "oxidation"} 
-        ],
-        "answer": {"text": "Reimer Tiemann reaction"}
-      },
-      {
-        "id": 92,
-        "question": "IUPAC name of CH2  = CHCN",
-        "options": [
-          {"text": "Ethane nitrile"}, 
-          {"text": "Vinyl Cyanide"},
-          {"text": "Cyano ethane"},
-          {"text": "2 –propene nitrile"}
-        ],
-        "answer": {"text": "Vinyl Cyanide"}
-      },
-      {
-        "id": 93,
-        "question": "Which of the following have polar bonds but are non – polar:",
-        "options": [
-          {"text": "H2O"},
-          {"text": "HCL"},
-          {"text": "SO3 "},   
-          {"text": "NO2"}
-        ],
-        "answer": {"text": "CO2"}
-      },
-      {
-        "id": 94,
-        "question": "Reaction which proceeds through photolytic ally",
-        "options": [
-          {"text": "NaOH + HCl → NaCl + H2O"},   
-          {"text": "CH3COOH + NaOH → CH3COONa + H2O"},
-          {"text": "H2  + Cl2  → 2HCL"},
-          {"text": "none"}
-        ],
-        "answer": {"text": "H2  + Cl2  → 2HCL"}
-      },
-      {
-        "id": 95,
-        "question": "The reduction of carbonyl compounds to alkane in presence of 2n-Hg / Conc. HCl is known as",
-        "options": [
-          {"text": "Wolf Kushner Reaction"},   
-          {"text": "Clementson’s reduction"}, 
-          {"text": "wartz reaction"},
-          {"text": "None"}
-        ],
-        "answer": {"text": "wartz reaction"}
-      },
-      { 
-        "id": 96,
-        "question": "LiAlH4  is a",
-        "options": [
-          {"text": "reducing agent"},
-          {"text": "Oxidizing agent"},
-          {"text": "Both"},  
-          {"text": "None"}
-        ],
-        "answer": {"text": "reducing agent"}
-      },
-      {
-        "id": 97,
-        "question": "What should be the normality of a solution prepared by diluting 250 ml of 0.400 N H2SO4  with 1000 ml of water?",
-        "options": [
-          {"text": "0.20N"},
-          {"text": "0.080N"},
-          {"text": "0.150N"}, 
-          {"text": "0.80 N"}  
-        ],
-        "answer": {"text": "0.080N"}
-      },
-      {
-        "id": 98,
-        "question": "The initial concentration is independent or half-life period for",
-        "options": [
-          {"text": "Zero order reaction"},
-          {"text": "First order reaction"},
-          {"text": "Second order reaction"},
-          {"text": "Third order reaction"}
-        ],
-        "answer": {"text": "Zero order reaction"}
-      },
-      {
-        "id": 99,
-        "question": "The unit of k for first order kinetics", 
-        "options": [
-          {"text": "mod L-1  sec-1 "},
-          {"text": "sec-1"}, 
-          {"text": "mod L-1  sec1"},  
-          {"text": "none"}
-        ],
-        "answer": {"text": "sec-1"}
-      },
-      {
-        "id": 100,
-        "question": "The degree of dissociation is calculated by",
-        "options": [
-          {"text": "∝ = √ka/c"},
-          {"text": "∝ = √c/ka"},
-          {"text": "both a and b"},
-          {"text": "none"} 
-        ],
-        "answer": {"text": "∝ = √ka/c"}
+        "answer": {"id": "a", "text": "William Shakespeare"}
       }
     ]
-      
+  }
+}
