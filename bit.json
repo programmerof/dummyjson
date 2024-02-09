@@ -1,61 +1,213 @@
 {
-    "categories": [
-      {
-        "category_name": "English",
-        "number_of_questions": 40,
-        "questions": [
-          {
-            "id": 1,
-            "question_text": "I like ………… in my spare time",
-            "options": [
-              {"id": "1a", "text": "(a) to reading"},
-              {"id": "1b", "text": "(b) read"},
-              {"id": "1c", "text": "(c) to read"},
-              {"id": "1d", "text": "(d) reading"}
-            ],
-            "answer": "(b) read"
-          },
-          {
-            "id": 2,
-            "question_text": "I went to the bookshop .................... 'Harry Potter'.",
-            "options": [
-              {"id": "2a", "text": "(a) to buy"},
-              {"id": "2b", "text": "(b) to buying"},
-              {"id": "2c", "text": "(c) for to buy"},
-              {"id": "2d", "text": "(d) for buying"}
-            ],
-            "answer": "(a) to buy"
-          }
-        ]
-      },
-      {
-        "category_name": "Math",
-        "number_of_questions": 40,
-        "questions": [
-          {
-            "id": 41,
-            "question_text": "Every rational number is also",
-            "options": [
-              {"id": "41a", "text": "(a) a natural number"},
-              {"id": "41b", "text": "(b) an integer"},
-              {"id": "41c", "text": "(c) a whole number"},
-              {"id": "41d", "text": "(d) a real number"}
-            ],
-            "answer": "(d) a real number"
-          },
-          {
-            "id": 42,
-            "question_text": "Which of the following numbers is rational? (a) -1 (b) 0 (c) 0.5 (d) 3/4",
-            "options": [
-              {"id": "42a", "text": "(a) -1"},
-              {"id": "42b", "text": "(b) 0"},
-              {"id": "42c", "text": "(c) 0.5"},
-              {"id": "42d", "text": "(d) 3/4"}
-            ],
-            "answer": "(d) 3/4"
-          }
-        ]
-      }
-    ]
-  }
-  
+  "categories": [
+    {
+      "category_name": "English",
+      "number_of_questions": 40,
+      "questions": [
+        {
+          "id": 1,
+          "question_text": "I like ………… in my spare time",
+          "options": [
+            {
+              "id": 1,
+              "text": "to reading"
+            },
+            {
+              "id": 2,
+              "text": "read"
+            },
+            {
+              "id": 3,
+              "text": "to read"
+            },
+            {
+              "id": 4,
+              "text": "reading"
+            }
+          ],
+          "answer": "read"
+        },
+        {
+          "id": 2,
+          "question_text": "I went to the bookshop .................... 'Harry Potter'.",
+          "options": [
+            {
+              "id": 1,
+              "text": "to buy"
+            },
+            {
+              "id": 2,
+              "text": "to buying"
+            },
+            {
+              "id": 3,
+              "text": "for to buy"
+            },
+            {
+              "id": 4,
+              "text": "for buying"
+            }
+          ],
+          "answer": "to buy"
+        },
+      ]
+    },
+    {
+      "category_name": "Math",
+      "number_of_questions": 40,
+      "questions": [
+        {
+          "id": 41,
+          "question_text": "Every rational number is also",
+          "options": [
+            {
+              "id": 1,
+              "text": "a natural number"
+            },
+            {
+              "id": 2,
+              "text": "an integer"
+            },
+            {
+              "id": 3,
+              "text": "a whole number"
+            },
+            {
+              "id": 4,
+              "text": "a real number"
+            }
+          ],
+          "answer": "a real number"
+        },
+        {
+          "id": 42,
+          "question_text": "Which of the following numbers is rational?",
+          "options": [
+            {
+              "id": 1,
+              "text": "-1"
+            },
+            {
+              "id": 2,
+              "text": "0"
+            },
+            {
+              "id": 3,
+              "text": "0.5"
+            },
+            {
+              "id": 4,
+              "text": "3/4"
+            }
+          ],
+          "answer": "3/4"
+        },
+      ]
+    },
+    {
+      "category_name": "General Knowledge + Logical Reasoning",
+      "number_of_questions": 10,
+      "questions": [
+        {
+          "id": 43,
+          "question_text": "Closest similar meaning of word ‘compunction’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "remorse"
+            },
+            {
+              "id": 2,
+              "text": "merciful"
+            },
+            {
+              "id": 3,
+              "text": "connive"
+            },
+            {
+              "id": 4,
+              "text": "recklessness"
+            }
+          ],
+          "answer": "remorse"
+        },
+        {
+          "id": 44,
+          "question_text": "Closest similar meaning of word ‘demolish’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "repair"
+            },
+            {
+              "id": 2,
+              "text": "consume"
+            },
+            {
+              "id": 3,
+              "text": "humiliate"
+            },
+            {
+              "id": 4,
+              "text": "destroy"
+            }
+          ],
+          "answer": "destroy"
+        },
+        
+      ]
+    },
+    {
+      "category_name": "IT General",
+      "number_of_questions": 10,
+      "questions": [
+        {
+          "id": 45,
+          "question_text": "Placeholder IT General Question 1",
+          "options": [
+            {
+              "id": 1,
+              "text": "Option 1"
+            },
+            {
+              "id": 2,
+              "text": "Option 2"
+            },
+            {
+              "id": 3,
+              "text": "Option 3"
+            },
+            {
+              "id": 4,
+              "text": "Option 4"
+            }
+          ],
+          "answer": "Option 1"
+        },
+        {
+          "id": 46,
+          "question_text": "Placeholder IT General Question 2",
+          "options": [
+            {
+              "id": 1,
+              "text": "Option 1"
+            },
+            {
+              "id": 2,
+              "text": "Option 2"
+            },
+            {
+              "id": 3,
+              "text": "Option 3"
+            },
+            {
+              "id": 4,
+              "text": "Option 4"
+            }
+          ],
+          "answer": "Option 2"
+        },
+      ]
+    }
+  ]
+}
