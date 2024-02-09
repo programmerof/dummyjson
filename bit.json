@@ -10,7 +10,7 @@
           "options": [
             {
               "id": 1,
-              "text": "to reading"
+              "text": "reading"
             },
             {
               "id": 2,
@@ -22,10 +22,10 @@
             },
             {
               "id": 4,
-              "text": "reading"
+              "text": "to reading"
             }
           ],
-          "answer": "read"
+          "answer": "reading"
         },
         {
           "id": 2,
@@ -33,22 +33,896 @@
           "options": [
             {
               "id": 1,
-              "text": "to buy"
+              "text": "For buying"
             },
             {
               "id": 2,
-              "text": "to buying"
+              "text": "to buy"
             },
             {
               "id": 3,
-              "text": "for to buy"
+              "text": "to buying"
             },
             {
               "id": 4,
-              "text": "for buying"
+              "text": "for to buy"
             }
           ],
           "answer": "to buy"
+        },
+        {
+          "id": 3,
+          "question_text": "He is interested ......... learning Romanian.",
+          "options": [
+            {
+              "id": 1,
+              "text": "in"
+            },
+            {
+              "id": 2,
+              "text": "on"
+            },
+            {
+              "id": 3,
+              "text": "to"
+            },
+            {
+              "id": 4,
+              "text": "for"
+            }
+          ],
+          "answer": "in"
+        },
+        {
+          "id": 4,
+          "question_text": "Would you like …. …. … to drink, Sir ?",
+          "options": [
+            {
+              "id": 1,
+              "text": "anything"
+            },
+            {
+              "id": 2,
+              "text": "anywhere"
+            },
+            {
+              "id": 3,
+              "text": "nothing"
+            },
+            {
+              "id": 4,
+              "text": "something"
+            }
+          ],
+          "answer": "anything"
+        },
+        {
+          "id": 5,
+          "question_text": "What ………. next weekend?",
+          "options": [
+            {
+              "id": 1,
+              "text": "do you do"
+            },
+            {
+              "id": 2,
+              "text": "are you doing"
+            },
+            {
+              "id": 3,
+              "text": "will you do"
+            },
+            {
+              "id": 4,
+              "text": "did you do"
+            }
+          ],
+          "answer": "are you doing"
+        },
+        {
+          "id": 6,
+          "question_text": "How many students in your class ………. from Bangladesh?",
+          "options": [
+            {
+              "id": 1,
+              "text": "comes"
+            },
+            {
+              "id": 2,
+              "text": "come"
+            },
+            {
+              "id": 3,
+              "text": "came"
+            },
+            {
+              "id": 4,
+              "text": "are coming"
+            }
+          ],
+          "answer": "come"
+        },
+        {
+          "id": 7,
+          "question_text": "I am hungry. I want two …….. of chicken .",
+          "options": [
+            {
+              "id": 1,
+              "text": "plates"
+            },
+            {
+              "id": 2,
+              "text": "pieces"
+            },
+            {
+              "id": 3,
+              "text": "bowls"
+            },
+            {
+              "id": 4,
+              "text": "gasses"
+            }
+          ],
+          "answer": "pieces"
+        },
+        {
+          "id": 8,
+          "question_text": "They are ugly and expensive; ……. ….. people buy them",
+          "options": [
+            {
+              "id": 1,
+              "text": "though"
+            },
+            {
+              "id": 2,
+              "text": "yet"
+            },
+            {
+              "id": 3,
+              "text": "still"
+            },
+            {
+              "id": 4,
+              "text": "besides"
+            }
+          ],
+          "answer": "though"
+        },
+        {
+          "id": 9,
+          "question_text": "What time .....",
+          "options": [
+            {
+              "id": 1,
+              "text": "the train leaves?"
+            },
+            {
+              "id": 2,
+              "text": "leaves the train?"
+            },
+            {
+              "id": 3,
+              "text": "is the train leaving?"
+            },
+            {
+              "id": 4,
+              "text": "does the train leave?"
+            }
+          ],
+          "answer": "does the train leave?"
+        },
+        {
+          "id": 10,
+          "question_text": "I promise I .................. study harder.",
+          "options": [
+            {
+              "id": 1,
+              "text": "will"
+            },
+            {
+              "id": 2,
+              "text": "am going to"
+            },
+            {
+              "id": 3,
+              "text": "may"
+            },
+            {
+              "id": 4,
+              "text": "must"
+            }
+          ],
+          "answer": "will"
+        },
+        {
+          "id": 11,
+          "question_text": "How long ……………………. English?",
+          "options": [
+            {
+              "id": 1,
+              "text": "are you learning"
+            },
+            {
+              "id": 2,
+              "text": "have you been learning"
+            },
+            {
+              "id": 3,
+              "text": "do you learn"
+            },
+            {
+              "id": 4,
+              "text": "you learn"
+            }
+          ],
+          "answer": "have you been learning"
+        },
+        {
+          "id": 12,
+          "question_text": "I hope that a school ……. For village children",
+          "options": [
+            {
+              "id": 1,
+              "text": "opens"
+            },
+            {
+              "id": 2,
+              "text": "is opened"
+            },
+            {
+              "id": 3,
+              "text": "has to be opened"
+            },
+            {
+              "id": 4,
+              "text": "be opened"
+            }
+          ],
+          "answer": "is opened"
+        },
+        {
+          "id": 13,
+          "question_text": "Closest similar meaning of word ‘compunction’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "remorse"
+            },
+            {
+              "id": 2,
+              "text": "merciful"
+            },
+            {
+              "id": 3,
+              "text": "connive"
+            },
+            {
+              "id": 4,
+              "text": "recklessness"
+            }
+          ],
+          "answer": "remorse"
+        },
+        {
+          "id": 14,
+          "question_text": "Closest similar meaning of word ‘demolish’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "repair"
+            },
+            {
+              "id": 2,
+              "text": "consume"
+            },
+            {
+              "id": 3,
+              "text": "humiliate"
+            },
+            {
+              "id": 4,
+              "text": "destroy"
+            }
+          ],
+          "answer": "destroy"
+        },
+        {
+          "id": 15,
+          "question_text": "Closest similar meaning of word ‘beneficent’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "charitable"
+            },
+            {
+              "id": 2,
+              "text": "imagery"
+            },
+            {
+              "id": 3,
+              "text": "profitable"
+            },
+            {
+              "id": 4,
+              "text": "cost-effective"
+            }
+          ],
+          "answer": "charitable"
+        },
+        {
+          "id": 16,
+          "question_text": "Closest similar meaning of word ‘mendacity’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "mandatory"
+            },
+            {
+              "id": 2,
+              "text": "untruthfulness"
+            },
+            {
+              "id": 3,
+              "text": "veracity"
+            },
+            {
+              "id": 4,
+              "text": "potential"
+            }
+          ],
+          "answer": "untruthfulness"
+        },
+        {
+          "id": 17,
+          "question_text": "Closest opposite meaning of word ‘theocracy’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "hierocracy"
+            },
+            {
+              "id": 2,
+              "text": "ideology"
+            },
+            {
+              "id": 3,
+              "text": "conservative"
+            },
+            {
+              "id": 4,
+              "text": "church state"
+            }
+          ],
+          "answer": "hierocracy"
+        },
+        {
+          "id": 18,
+          "question_text": "Closest opposite meaning of word ‘integrate’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "accommodate"
+            },
+            {
+              "id": 2,
+              "text": "compose"
+            },
+            {
+              "id": 3,
+              "text": "articulate"
+            },
+            {
+              "id": 4,
+              "text": "segregate"
+            }
+          ],
+          "answer": "segregate"
+        },
+        {
+          "id": 19,
+          "question_text": "Closest opposite meaning of word ‘Calm’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "excited"
+            },
+            {
+              "id": 2,
+              "text": "restful"
+            },
+            {
+              "id": 3,
+              "text": "cool"
+            },
+            {
+              "id": 4,
+              "text": "serene"
+            }
+          ],
+          "answer": "excited"
+        },
+        {
+          "id": 20,
+          "question_text": "Closest opposite meaning of word ‘wordy’ is",
+          "options": [
+            {
+              "id": 1,
+              "text": "rambling"
+            },
+            {
+              "id": 2,
+              "text": "concise"
+            },
+            {
+              "id": 3,
+              "text": "diffuse"
+            },
+            {
+              "id": 4,
+              "text": "voluble"
+            }
+          ],
+          "answer": "concise"
+        },
+        {
+          "id": 21,
+          "question_text": "A teacher needs to discuss in classes, it ____________ curiosity in students.",
+          "options": [
+            {
+              "id": 1,
+              "text": "creates"
+            },
+            {
+              "id": 2,
+              "text": "created"
+            },
+            {
+              "id": 3,
+              "text": "create"
+            },
+            {
+              "id": 4,
+              "text": "will creates"
+            }
+          ],
+          "answer": "creates"
+        },
+        {
+          "id": 22,
+          "question_text": "Successful people always __________ two things: one, determination and second, sincerity.",
+          "options": [
+            {
+              "id": 1,
+              "text": "had"
+            },
+            {
+              "id": 2,
+              "text": "doing"
+            },
+            {
+              "id": 3,
+              "text": "did"
+            },
+            {
+              "id": 4,
+              "text": "have"
+            }
+          ],
+          "answer": "have"
+        },
+        {
+          "id": 23,
+          "question_text": "They like swimming, whenever they have a leisure time. (Which word is a verbal noun?)",
+          "options": [
+            {
+              "id": 1,
+              "text": "Leisure"
+            },
+            {
+              "id": 2,
+              "text": "free"
+            },
+            {
+              "id": 3,
+              "text": "like"
+            },
+            {
+              "id": 4,
+              "text": "swimming"
+            }
+          ],
+          "answer": "swimming"
+        },
+        {
+          "id": 24,
+          "question_text": "Nobody likes heap of garbage in front of his house. (Which word is a collective noun?)",
+          "options": [
+            {
+              "id": 1,
+              "text": "leap of garbage"
+            },
+            {
+              "id": 2,
+              "text": "in front"
+            },
+            {
+              "id": 3,
+              "text": "house"
+            },
+            {
+              "id": 4,
+              "text": "likes"
+            }
+          ],
+          "answer": "leap of garbage"
+        },
+        {
+          "id": 25,
+          "question_text": "Find interrogative pronoun in sentence \"Why did you not call me.? This made me alarmed.\"",
+          "options": [
+            {
+              "id": 1,
+              "text": "you"
+            },
+            {
+              "id": 2,
+              "text": "me"
+            },
+            {
+              "id": 3,
+              "text": "why"
+            },
+            {
+              "id": 4,
+              "text": "did"
+            }
+          ],
+          "answer": "why"
+        },
+        {
+          "id": 26,
+          "question_text": "Right grammatical category of the underlined phrase in the sentence “ Ram handed a book to his sister” is",
+          "options": [
+            {
+              "id": 1,
+              "text": "complement"
+            },
+            {
+              "id": 2,
+              "text": "direct object"
+            },
+            {
+              "id": 3,
+              "text": "adjunct"
+            },
+            {
+              "id": 4,
+              "text": "indirect object"
+            }
+          ],
+          "answer": "indirect object"
+        },
+        {
+          "id": 27,
+          "question_text": "Which of the following is noun?",
+          "options": [
+            {
+              "id": 1,
+              "text": "real"
+            },
+            {
+              "id": 2,
+              "text": "readable"
+            },
+            {
+              "id": 3,
+              "text": "reliable"
+            },
+            {
+              "id": 4,
+              "text": "reality"
+            }
+          ],
+          "answer": "reality"
+        },
+        {
+          "id": 28,
+          "question_text": "English is today the third ………… native language worldwide after Chinese and Hindi, with some 380 million speakers.",
+          "options": [
+            {
+              "id": 1,
+              "text": "the most spoken"
+            },
+            {
+              "id": 2,
+              "text": "the more spoken"
+            },
+            {
+              "id": 3,
+              "text": "much spoken"
+            },
+            {
+              "id": 4,
+              "text": "most spoken"
+            }
+          ],
+          "answer": "most spoken"
+        },
+        {
+          "id": 29,
+          "question_text": "We could barely get any information at the airport. ……..people seemed to have …… idea about the flights.",
+          "options": [
+            {
+              "id": 1,
+              "text": "Many / any"
+            },
+            {
+              "id": 2,
+              "text": "A lot of / any"
+            },
+            {
+              "id": 3,
+              "text": "Few / no"
+            },
+            {
+              "id": 4,
+              "text": "Only a few / some"
+            }
+          ],
+          "answer": "Few / no"
+        },
+        {
+          "id": 30,
+          "question_text": "……… his friends speaks any English.",
+          "options": [
+            {
+              "id": 1,
+              "text": "Some"
+            },
+            {
+              "id": 2,
+              "text": "All"
+            },
+            {
+              "id": 3,
+              "text": "Many"
+            },
+            {
+              "id": 4,
+              "text": "Neither of"
+            }
+          ],
+          "answer": "None of"
+        },
+        {
+          "id": 31,
+          "question_text": "These differences between two photographs ……… with the help of Photoshop.",
+          "options": [
+            {
+              "id": 1,
+              "text": "should remove"
+            },
+            {
+              "id": 2,
+              "text": "have to remove"
+            },
+            {
+              "id": 3,
+              "text": "could have been removed"
+            },
+            {
+              "id": 4,
+              "text": "must have removed"
+            }
+          ],
+          "answer": "could have been removed"
+        },
+        {
+          "id": 32,
+          "question_text": "New legislation ………in congress but it ………by many.",
+          "options": [
+            {
+              "id": 1,
+              "text": "was introduced / wasn't accepted"
+            },
+            {
+              "id": 2,
+              "text": "was introduced / didn't accept"
+            },
+            {
+              "id": 3,
+              "text": "is introduced / won't accept"
+            },
+            {
+              "id": 4,
+              "text": "introduced / hadn't been accepted"
+            }
+          ],
+          "answer": "was introduced / wasn't accepted"
+        },
+        {
+          "id": 33,
+          "question_text": "Mike has been told he will have to pay the fine ---- his high rank in the military.",
+          "options": [
+            {
+              "id": 1,
+              "text": "even if"
+            },
+            {
+              "id": 2,
+              "text": "furthermore"
+            },
+            {
+              "id": 3,
+              "text": "despite"
+            },
+            {
+              "id": 4,
+              "text": "on purpose that"
+            }
+          ],
+          "answer": "despite"
+        },
+        {
+          "id": 34,
+          "question_text": "The economy in China is booming; ……. many foreign investors are planning to enter China's market.",
+          "options": [
+            {
+              "id": 1,
+              "text": "Nonetheless"
+            },
+            {
+              "id": 2,
+              "text": "so as to"
+            },
+            {
+              "id": 3,
+              "text": "in addition to"
+            },
+            {
+              "id": 4,
+              "text": "that's why"
+            }
+          ],
+          "answer": "Nonetheless"
+        },
+        {
+          "id": 35,
+          "question_text": "I wish you ……… making that noise. It's bothering me.",
+          "options": [
+            {
+              "id": 1,
+              "text": "would stop"
+            },
+            {
+              "id": 2,
+              "text": "are going to stop"
+            },
+            {
+              "id": 3,
+              "text": "stop"
+            },
+            {
+              "id": 4,
+              "text": "can stop"
+            }
+          ],
+          "answer": "would stop"
+        },
+        {
+          "id": 36,
+          "question_text": "…… more help, I could call my neighbor.",
+          "options": [
+            {
+              "id": 1,
+              "text": "Needed"
+            },
+            {
+              "id": 2,
+              "text": "Should I need"
+            },
+            {
+              "id": 3,
+              "text": "I have needed"
+            },
+            {
+              "id": 4,
+              "text": "I should need"
+            }
+          ],
+          "answer": "Should I need"
+        },
+        {
+          "id": 37,
+          "question_text": "If you plan to take a long trip in the car, you must get a full tank of gas or you ---- out of gas.",
+          "options": [
+            {
+              "id": 1,
+              "text": "have to run"
+            },
+            {
+              "id": 2,
+              "text": "should have run"
+            },
+            {
+              "id": 3,
+              "text": "had better run"
+            },
+            {
+              "id": 4,
+              "text": "might run"
+            }
+          ],
+          "answer": "might run"
+        },
+        {
+          "id": 38,
+          "question_text": "If you want to get a good night's sleep, you ---- any tea or coffee in the evenings.",
+          "options": [
+            {
+              "id": 1,
+              "text": "would rather drink"
+            },
+            {
+              "id": 2,
+              "text": "don't have to drink"
+            },
+            {
+              "id": 3,
+              "text": "mustn't drink"
+            },
+            {
+              "id": 4,
+              "text": "not able to drink"
+            }
+          ],
+          "answer": "mustn't drink"
+        },
+        {
+          "id": 39,
+          "question_text": "It is not easy for many civil servants to …………… on their salaries as the inflation rate is extremely high.",
+          "options": [
+            {
+              "id": 1,
+              "text": "get by"
+            },
+            {
+              "id": 2,
+              "text": "turn up"
+            },
+            {
+              "id": 3,
+              "text": "wear out"
+            },
+            {
+              "id": 4,
+              "text": "run over"
+            }
+          ],
+          "answer": "get by"
+        },
+        {
+          "id": 40,
+          "question_text": "I thought the party was going to be boring, but it ……..to be the most unforgettable evening of my life.",
+          "options": [
+            {
+              "id": 1,
+              "text": "turned out"
+            },
+            {
+              "id": 2,
+              "text": "looked around"
+            },
+            {
+              "id": 3,
+              "text": "passed away"
+            },
+            {
+              "id": 4,
+              "text": "fell back on"
+            }
+          ],
+          "answer": "turned out"
         }
       ]
     },
@@ -81,26 +955,900 @@
         },
         {
           "id": 42,
-          "question_text": "Which of the following numbers is rational?",
+          "question_text": "If  −  =",
           "options": [
             {
               "id": 1,
-              "text": "-1"
+              "text": "1"
             },
             {
               "id": 2,
-              "text": "0"
+              "text": ""
             },
             {
               "id": 3,
-              "text": "0.5"
+              "text": ""
             },
             {
               "id": 4,
-              "text": "3/4"
+              "text": ""
             }
           ],
-          "answer": "3/4"
+          "answer": "1"
+        },
+        {
+          "id": 43,
+          "question_text": "Given U = {1,2,3, … . ,15},  = {:  ≥ 8}, = {:  ≤ 4} ℎ ∩  =",
+          "options": [
+            {
+              "id": 1,
+              "text": "∅"
+            },
+            {
+              "id": 2,
+              "text": "U"
+            },
+            {
+              "id": 3,
+              "text": "AUB"
+            },
+            {
+              "id": 4,
+              "text": "None of these"
+            }
+          ],
+          "answer": "∅"
+        },
+        {
+          "id": 44,
+          "question_text": "Which are the equal ordered pairs?",
+          "options": [
+            {
+              "id": 1,
+              "text": "(2,4), (4,2)"
+            },
+            {
+              "id": 2,
+              "text": "(2,2), (4,4)"
+            },
+            {
+              "id": 3,
+              "text": "(4,2), (4,2)"
+            },
+            {
+              "id": 4,
+              "text": "all of them"
+            }
+          ],
+          "answer": "all of them"
+        },
+        {
+          "id": 45,
+          "question_text": " = , when a, r &  denotes first term, common ratio and sum to infinity. If",
+          "options": [
+            {
+              "id": 1,
+              "text": "|| < 1"
+            },
+            {
+              "id": 2,
+              "text": "|| > 1"
+            },
+            {
+              "id": 3,
+              "text": "|| = 1"
+            },
+            {
+              "id": 4,
+              "text": "none of these"
+            }
+          ],
+          "answer": "|| < 1"
+        },
+        {
+          "id": 46,
+          "question_text": "If 21=21 then which is true?",
+          "options": [
+            {
+              "id": 1,
+              "text": "x≠"
+            },
+            {
+              "id": 2,
+              "text": "x=y"
+            },
+            {
+              "id": 3,
+              "text": "x+y=21"
+            },
+            {
+              "id": 4,
+              "text": "either (b) or (c)"
+            }
+          ],
+          "answer": "either (b) or (c)"
+        },
+        {
+          "id": 47,
+          "question_text": "Which is not correct?",
+          "options": [
+            {
+              "id": 1,
+              "text": "() = "
+            },
+            {
+              "id": 2,
+              "text": "( + ) =  + "
+            },
+            {
+              "id": 3,
+              "text": "() = "
+            },
+            {
+              "id": 4,
+              "text": "() = "
+            }
+          ],
+          "answer": "() = "
+        },
+        {
+          "id": 48,
+          "question_text": "Which is not correct?",
+          "options": [
+            {
+              "id": 1,
+              "text": "() = "
+            },
+            {
+              "id": 2,
+              "text": "0 0 0 =0"
+            },
+            {
+              "id": 3,
+              "text": "0 0 0 =0"
+            },
+            {
+              "id": 4,
+              "text": "() = "
+            }
+          ],
+          "answer": "() = "
+        },
+        {
+          "id": 49,
+          "question_text": "The equation x=0 represents",
+          "options": [
+            {
+              "id": 1,
+              "text": "x-axis"
+            },
+            {
+              "id": 2,
+              "text": "y-axis"
+            },
+            {
+              "id": 3,
+              "text": "the origin"
+            },
+            {
+              "id": 4,
+              "text": "none of these"
+            }
+          ],
+          "answer": "y-axis"
+        },
+        {
+          "id": 50,
+          "question_text": "The angle between the lines xy=0 is",
+          "options": [
+            {
+              "id": 1,
+              "text": "0"
+            },
+            {
+              "id": 2,
+              "text": "60"
+            },
+            {
+              "id": 3,
+              "text": "90"
+            },
+            {
+              "id": 4,
+              "text": "120"
+            }
+          ],
+          "answer": "90"
+        },
+        {
+          "id": 51,
+          "question_text": "Which is correct?",
+          "options": [
+            {
+              "id": 1,
+              "text": "= 0"
+            },
+            {
+              "id": 2,
+              "text": ". = −1"
+            },
+            {
+              "id": 3,
+              "text": "= 1"
+            },
+            {
+              "id": 4,
+              "text": "all of them"
+            }
+          ],
+          "answer": "all of them"
+        },
+        {
+          "id": 52,
+          "question_text": "The domain of  = () =  is",
+          "options": [
+            {
+              "id": 1,
+              "text": " − {0}"
+            },
+            {
+              "id": 2,
+              "text": ""
+            },
+            {
+              "id": 3,
+              "text": "(-2,1)"
+            },
+            {
+              "id": 4,
+              "text": "(-1,1)"
+            }
+          ],
+          "answer": " − {0}"
+        },
+        {
+          "id": 53,
+          "question_text": "Let :  →  be defined by () = 10 − 7 then ()=",
+          "options": [
+            {
+              "id": 1,
+              "text": ""
+            },
+            {
+              "id": 2,
+              "text": ""
+            },
+            {
+              "id": 3,
+              "text": ""
+            },
+            {
+              "id": 4,
+              "text": ""
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": 54,
+          "question_text": "If t be a positive real number then the least value of t +  is :",
+          "options": [
+            {
+              "id": 1,
+              "text": "1"
+            },
+            {
+              "id": 2,
+              "text": "2"
+            },
+            {
+              "id": 3,
+              "text": "4"
+            },
+            {
+              "id": 4,
+              "text": "3"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 55,
+          "question_text": "11The value of lim→  √√  is",
+          "options": [
+            {
+              "id": 1,
+              "text": "0"
+            },
+            {
+              "id": 2,
+              "text": "1"
+            },
+            {
+              "id": 3,
+              "text": ""
+            },
+            {
+              "id": 4,
+              "text": "-1"
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 56,
+          "question_text": "The point of discontinuity of the function () = is",
+          "options": [
+            {
+              "id": 1,
+              "text": "3"
+            },
+            {
+              "id": 2,
+              "text": "6"
+            },
+            {
+              "id": 3,
+              "text": "27"
+            },
+            {
+              "id": 4,
+              "text": "0"
+            }
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 57,
+          "question_text": "If  +  =  ℎ",
+          "options": [
+            {
+              "id": 1,
+              "text": ""
+            },
+            {
+              "id": 2,
+              "text": ""
+            },
+            {
+              "id": 3,
+              "text": ""
+            },
+            {
+              "id": 4,
+              "text": ""
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": 58,
+          "question_text": "If  = 2,  =  ℎ",
+          "options": [
+            {
+              "id": 1,
+              "text": "t"
+            },
+            {
+              "id": 2,
+              "text": ""
+            },
+            {
+              "id": 3,
+              "text": " "
+            },
+            {
+              "id": 4,
+              "text": "1"
+            }
+          ],
+          "answer": "t"
+        },
+        {
+          "id": 59,
+          "question_text": "If the total cost function C=50x+5000. The marginal cost function MC is () 50 +",
+          "options": [
+            {
+              "id": 1,
+              "text": "25 + 5000"
+            },
+            {
+              "id": 2,
+              "text": "50"
+            },
+            {
+              "id": 3,
+              "text": "none of these"
+            },
+            {
+              "id": 4,
+              "text": ""
+            }
+          ],
+          "answer": "50"
+        },
+        {
+          "id": 60,
+          "question_text": "The maximum value of sin ",
+          "options": [
+            {
+              "id": 1,
+              "text": "1"
+            },
+            {
+              "id": 2,
+              "text": "√"
+            },
+            {
+              "id": 3,
+              "text": "√"
+            },
+            {
+              "id": 4,
+              "text": ""
+            }
+          ],
+          "answer": "1"
+        },
+        {
+          "id": 61,
+          "question_text": "The function f(x)=2-3x is",
+          "options": [
+            {
+              "id": 1,
+              "text": "decreasing"
+            },
+            {
+              "id": 2,
+              "text": "increasing"
+            },
+            {
+              "id": 3,
+              "text": "neither decreasing nor increasing"
+            },
+            {
+              "id": 4,
+              "text": "doesn't exist"
+            }
+          ],
+          "answer": "decreasing"
+        },
+        {
+          "id": 62,
+          "question_text": "∫   =",
+          "options": [
+            {
+              "id": 1,
+              "text": " + "
+            },
+            {
+              "id": 2,
+              "text": " −  + "
+            },
+            {
+              "id": 3,
+              "text": " +  + "
+            },
+            {
+              "id": 4,
+              "text": " + "
+            }
+          ],
+          "answer": " + "
+        },
+        {
+          "id": 63,
+          "question_text": "∫ ||  is equal to",
+          "options": [
+            {
+              "id": 1,
+              "text": "0"
+            },
+            {
+              "id": 2,
+              "text": "1"
+            },
+            {
+              "id": 3,
+              "text": "2"
+            },
+            {
+              "id": 4,
+              "text": "4"
+            }
+          ],
+          "answer": "0"
+        },
+        {
+          "id": 64,
+          "question_text": "If the marginal cost of a product is given by  = 8 + 6 − 3 and the fixed cost is Rs.150. The cost function is",
+          "options": [
+            {
+              "id": 1,
+              "text": "8 + 6 − 6"
+            },
+            {
+              "id": 2,
+              "text": " + 6 − 3"
+            },
+            {
+              "id": 3,
+              "text": "8 + 3 −  + 150"
+            },
+            {
+              "id": 4,
+              "text": "8 + 3 −  − 150"
+            }
+          ],
+          "answer": " + 6 − 3"
+        },
+        {
+          "id": 65,
+          "question_text": "The area of the circle  +  = 16",
+          "options": [
+            {
+              "id": 1,
+              "text": "4"
+            },
+            {
+              "id": 2,
+              "text": "4"
+            },
+            {
+              "id": 3,
+              "text": "16"
+            },
+            {
+              "id": 4,
+              "text": "16"
+            }
+          ],
+          "answer": "16"
+        },
+        {
+          "id": 66,
+          "question_text": "The following table gives the two kinds of food and two kinds of vitamin. If qty of F1=x, qty of F2=y then formulate the following problem to minimizing the cost.",
+          "options": [
+            {
+              "id": 1,
+              "text": "min(z) = 3x+5y subject to 4x+8y ≥ 80, 6 + 4 ≥ 100"
+            },
+            {
+              "id": 2,
+              "text": "min(z) = 3x+5y subject to 4x+8y ≤ 80, 6 + 4 ≤ 100"
+            },
+            {
+              "id": 3,
+              "text": "min(z) = 3x+5y subject to 4x+6y ≤ 80, 8 + 4 ≤ 100"
+            },
+            {
+              "id": 4,
+              "text": "min(z) = 3x+5y subject to 4x+6y ≥ 80, 8 + 4 ≥ 100"
+            }
+          ],
+          "answer": "min(z) = 3x+5y subject to 4x+6y ≥ 80, 8 + 4 ≥ 100"
+        },
+        {
+          "id": 67,
+          "question_text": "Which is the measure of dispersion?",
+          "options": [
+            {
+              "id": 1,
+              "text": "mean"
+            },
+            {
+              "id": 2,
+              "text": "median"
+            },
+            {
+              "id": 3,
+              "text": "mode"
+            },
+            {
+              "id": 4,
+              "text": "range"
+            }
+          ],
+          "answer": "range"
+        },
+        {
+          "id": 68,
+          "question_text": "Two brothers: Mr. X and Mr. Y appear in an interview for getting the scholarship. The scholarship can be provided for two persons. The probability of getting scholarship by Mr. X is  and getting by Mr. Y is . What is the probability that both of them will get scholarship?",
+          "options": [
+            {
+              "id": 1,
+              "text": ""
+            },
+            {
+              "id": 2,
+              "text": ""
+            },
+            {
+              "id": 3,
+              "text": ""
+            },
+            {
+              "id": 4,
+              "text": "none of these"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": 69,
+          "question_text": "The equation  +  = 2 ℎ",
+          "options": [
+            {
+              "id": 1,
+              "text": "infinite solution"
+            },
+            {
+              "id": 2,
+              "text": "finite solution"
+            },
+            {
+              "id": 3,
+              "text": "no solution"
+            },
+            {
+              "id": 4,
+              "text": "unique solution"
+            }
+          ],
+          "answer": "unique solution"
+        },
+        {
+          "id": 70,
+          "question_text": " +  =",
+          "options": [
+            {
+              "id": 1,
+              "text": ""
+            },
+            {
+              "id": 2,
+              "text": "−\n2"
+            },
+            {
+              "id": 3,
+              "text": "\n2 − "
+            },
+            {
+              "id": 4,
+              "text": "1"
+            }
+          ],
+          "answer": "\n2 − "
+        },
+        {
+          "id": 71,
+          "question_text": "The system of linear equations 2x+3y=5 and 4x+6x=9 are",
+          "options": [
+            {
+              "id": 1,
+              "text": "consistent & dependent"
+            },
+            {
+              "id": 2,
+              "text": "consistent & independent"
+            },
+            {
+              "id": 3,
+              "text": "inconsistent & independent"
+            },
+            {
+              "id": 4,
+              "text": "inconsistent & dependent"
+            }
+          ],
+          "answer": "consistent & dependent"
+        },
+        {
+          "id": 72,
+          "question_text": "The degree of polynomial equation  +  +  = 0 is",
+          "options": [
+            {
+              "id": 1,
+              "text": "0"
+            },
+            {
+              "id": 2,
+              "text": "1"
+            },
+            {
+              "id": 3,
+              "text": "2"
+            },
+            {
+              "id": 4,
+              "text": "not define"
+            }
+          ],
+          "answer": "2"
+        },
+        {
+          "id": 73,
+          "question_text": "If one root of a quadratic equation in the real coefficient is √2 then equation is",
+          "options": [
+            {
+              "id": 1,
+              "text": " + √2 + 2 = 0"
+            },
+            {
+              "id": 2,
+              "text": " + 2 = 0"
+            },
+            {
+              "id": 3,
+              "text": " − 2 = 0"
+            },
+            {
+              "id": 4,
+              "text": "none of these"
+            }
+          ],
+          "answer": " + √2 + 2 = 0"
+        },
+        {
+          "id": 74,
+          "question_text": "The equation  +  = 0 represents",
+          "options": [
+            {
+              "id": 1,
+              "text": "circle"
+            },
+            {
+              "id": 2,
+              "text": "degenerate circle"
+            },
+            {
+              "id": 3,
+              "text": "an empty set"
+            },
+            {
+              "id": 4,
+              "text": "a straight line"
+            }
+          ],
+          "answer": "a straight line"
+        },
+        {
+          "id": 75,
+          "question_text": "If four quantities a,b,c and d are such that a:b=3:4, b:c = 6:7 and c:d=8:9, then the ratio between a and d is",
+          "options": [
+            {
+              "id": 1,
+              "text": "3:8"
+            },
+            {
+              "id": 2,
+              "text": "1:3"
+            },
+            {
+              "id": 3,
+              "text": "4:7"
+            },
+            {
+              "id": 4,
+              "text": "7:4"
+            }
+          ],
+          "answer": "7:4"
+        },
+        {
+          "id": 76,
+          "question_text": "By selling 175 pens, a stationary store gains the selling price of 50 pens. What is his gain percent?",
+          "options": [
+            {
+              "id": 1,
+              "text": "40%"
+            },
+            {
+              "id": 2,
+              "text": "28%\n"
+            },
+            {
+              "id": 3,
+              "text": "50%"
+            },
+            {
+              "id": 4,
+              "text": "none of these"
+            }
+          ],
+          "answer": "40%"
+        },
+        {
+          "id": 77,
+          "question_text": "A, B, C and D enter into a partnership. A, B, C, subscribe , , of the capital respectively and D, the rest. What is the share of profit of D if the total profit is Rs. 24600?",
+          "options": [
+            {
+              "id": 1,
+              "text": "Rs. 8200"
+            },
+            {
+              "id": 2,
+              "text": "Rs. 5330"
+            },
+            {
+              "id": 3,
+              "text": "Rs. 6150"
+            },
+            {
+              "id": 4,
+              "text": "Rs. 4920"
+            }
+          ],
+          "answer": "Rs. 5330"
+        },
+        {
+          "id": 78,
+          "question_text": "If US $1 = Rs. 78.15. How many US dollars are equivalent To Rs. 10,000?",
+          "options": [
+            {
+              "id": 1,
+              "text": "$127.96"
+            },
+            {
+              "id": 2,
+              "text": "$172.96"
+            },
+            {
+              "id": 3,
+              "text": "$ 196.72"
+            },
+            {
+              "id": 4,
+              "text": "$172.62"
+            }
+          ],
+          "answer": "$127.96"
+        },
+        {
+          "id": 79,
+          "question_text": "The effective rate corresponding to 10% p.a. convertible quarterly is",
+          "options": [
+            {
+              "id": 1,
+              "text": "40%"
+            },
+            {
+              "id": 2,
+              "text": "10.1%"
+            },
+            {
+              "id": 3,
+              "text": "10.4%"
+            },
+            {
+              "id": 4,
+              "text": "none of these"
+            }
+          ],
+          "answer": "10.4%"
+        },
+        {
+          "id": 80,
+          "question_text": "The present value of an immediate annuity is; where symbols are there usual meaning",
+          "options": [
+            {
+              "id": 1,
+              "text": "{( + ) − }"
+            },
+            {
+              "id": 2,
+              "text": "( + ){( + ) − }"
+            },
+            {
+              "id": 3,
+              "text": "{ −\n()}"
+            },
+            {
+              "id": 4,
+              "text": "() { −\n()}"
+            }
+          ],
+          "answer": "{( + ) − }"
         }
       ]
     },
@@ -109,50 +1857,234 @@
       "number_of_questions": 10,
       "questions": [
         {
-          "id": 43,
-          "question_text": "Closest similar meaning of word ‘compunction’ is",
+          "id": 81,
+          "question_text": "The study of sound & sound waves is called",
           "options": [
             {
               "id": 1,
-              "text": "remorse"
+              "text": "Mechanical"
             },
             {
               "id": 2,
-              "text": "merciful"
+              "text": "Technical"
             },
             {
               "id": 3,
-              "text": "connive"
+              "text": "Acoustics"
             },
             {
               "id": 4,
-              "text": "recklessness"
+              "text": "Sound Waves"
             }
           ],
-          "answer": "remorse"
+          "answer": "Acoustics"
         },
         {
-          "id": 44,
-          "question_text": "Closest similar meaning of word ‘demolish’ is",
+          "id": 82,
+          "question_text": "A river always has",
           "options": [
             {
               "id": 1,
-              "text": "repair"
+              "text": "Delta"
             },
             {
               "id": 2,
-              "text": "consume"
+              "text": "Fishes"
             },
             {
               "id": 3,
-              "text": "humiliate"
+              "text": "Boats"
             },
             {
               "id": 4,
-              "text": "destroy"
+              "text": "Banks"
             }
           ],
-          "answer": "destroy"
+          "answer": "Banks"
+        },
+        {
+          "id": 83,
+          "question_text": "Which is the international sports competition that is held only in Nepal?",
+          "options": [
+            {
+              "id": 1,
+              "text": "Dandi Biyo"
+            },
+            {
+              "id": 2,
+              "text": "Elephant polo"
+            },
+            {
+              "id": 3,
+              "text": "Bhale judhai"
+            },
+            {
+              "id": 4,
+              "text": "Kabaddi"
+            }
+          ],
+          "answer": "Elephant polo"
+        },
+        {
+          "id": 84,
+          "question_text": "Which mountain is understood by ‘Killer Mountain’?",
+          "options": [
+            {
+              "id": 1,
+              "text": "Manaslu"
+            },
+            {
+              "id": 2,
+              "text": "Ama Dablam"
+            },
+            {
+              "id": 3,
+              "text": "Cho Oyu"
+            },
+            {
+              "id": 4,
+              "text": "Kala Patthar"
+            }
+          ],
+          "answer": "Ama Dablam"
+        },
+        {
+          "id": 85,
+          "question_text": "Which of the following is necessary for ‘knowledge’?",
+          "options": [
+            {
+              "id": 1,
+              "text": "School"
+            },
+            {
+              "id": 2,
+              "text": "Teacher"
+            },
+            {
+              "id": 3,
+              "text": "Textbook"
+            },
+            {
+              "id": 4,
+              "text": "Learning"
+            }
+          ],
+          "answer": "Learning"
+        },
+        {
+          "id": 86,
+          "question_text": "Two concepts are related in some way; establish the same relationship on the basis of the alternatives given for UTS : FDC : : WVU : ?",
+          "options": [
+            {
+              "id": 1,
+              "text": "YWV"
+            },
+            {
+              "id": 2,
+              "text": "WXY"
+            },
+            {
+              "id": 3,
+              "text": "UVW"
+            },
+            {
+              "id": 4,
+              "text": "HGF"
+            }
+          ],
+          "answer": "WXY"
+        },
+        {
+          "id": 87,
+          "question_text": "Insert the appropriate arithmetical signs in (?,?) to establish the relation: 9 ? 6 ? 3 = 27",
+          "options": [
+            {
+              "id": 1,
+              "text": "+, "
+            },
+            {
+              "id": 2,
+              "text": "- , +"
+            },
+            {
+              "id": 3,
+              "text": ", +"
+            },
+            {
+              "id": 4,
+              "text": "+ , "
+            }
+          ],
+          "answer": ", +"
+        },
+        {
+          "id": 88,
+          "question_text": "If LIGHT is coded as GILTH, find the code for RAINY.",
+          "options": [
+            {
+              "id": 1,
+              "text": "IARYN"
+            },
+            {
+              "id": 2,
+              "text": "ARINY"
+            },
+            {
+              "id": 3,
+              "text": "NAIRY"
+            },
+            {
+              "id": 4,
+              "text": "RINAY"
+            }
+          ],
+          "answer": "RINAY"
+        },
+        {
+          "id": 89,
+          "question_text": "A, B and C are intelligent, A, D and E are laborious, D, C and E are honest and A, B, and E are ambitious. Which of the following are not honest?",
+          "options": [
+            {
+              "id": 1,
+              "text": "A and B"
+            },
+            {
+              "id": 2,
+              "text": "C and A"
+            },
+            {
+              "id": 3,
+              "text": "A and D"
+            },
+            {
+              "id": 4,
+              "text": "A and D"
+            }
+          ],
+          "answer": "C and A"
+        },
+        {
+          "id": 90,
+          "question_text": "What is the missing number in the given series below?",
+          "options": [
+            {
+              "id": 1,
+              "text": "17"
+            },
+            {
+              "id": 2,
+              "text": "27"
+            },
+            {
+              "id": 3,
+              "text": "35"
+            },
+            {
+              "id": 4,
+              "text": "41"
+            }
+          ],
+          "answer": "35"
         }
       ]
     },
@@ -161,50 +2093,234 @@
       "number_of_questions": 10,
       "questions": [
         {
-          "id": 45,
-          "question_text": "Placeholder IT General Question 1",
+          "id": 91,
+          "question_text": "Which of the following is not a search engine?",
           "options": [
             {
               "id": 1,
-              "text": "Option 1"
+              "text": "Google"
             },
             {
               "id": 2,
-              "text": "Option 2"
+              "text": "Altavista"
             },
             {
               "id": 3,
-              "text": "Option 3"
+              "text": "Yahoo"
             },
             {
               "id": 4,
-              "text": "Option 4"
+              "text": "Firefox Mozilla"
             }
           ],
-          "answer": "Option 1"
+          "answer": "Firefox Mozilla"
         },
         {
-          "id": 46,
-          "question_text": "Placeholder IT General Question 2",
+          "id": 92,
+          "question_text": "Name of the screen that recognizes touch input is:",
           "options": [
             {
               "id": 1,
-              "text": "Option 1"
+              "text": "Recog screen"
             },
             {
               "id": 2,
-              "text": "Option 2"
+              "text": "Point Screen"
             },
             {
               "id": 3,
-              "text": "Option 3"
+              "text": "Touch Screen"
             },
             {
               "id": 4,
-              "text": "Option 4"
+              "text": "Android Screen"
             }
           ],
-          "answer": "Option 2"
+          "answer": "Touch Screen"
+        },
+        {
+          "id": 93,
+          "question_text": "Arrange in ascending order the units of memory TB, KB, GB, MB",
+          "options": [
+            {
+              "id": 1,
+              "text": "TB>MB>GB>KB"
+            },
+            {
+              "id": 2,
+              "text": "MB>GB>TB>KB"
+            },
+            {
+              "id": 3,
+              "text": "TB>GB>MB>KB"
+            },
+            {
+              "id": 4,
+              "text": "GB>MB>KB>TB"
+            }
+          ],
+          "answer": "TB>GB>MB>KB"
+        },
+        {
+          "id": 94,
+          "question_text": "What is the full form of WWW?",
+          "options": [
+            {
+              "id": 1,
+              "text": "World Wide Web"
+            },
+            {
+              "id": 2,
+              "text": "Wide World Web"
+            },
+            {
+              "id": 3,
+              "text": "Web Wide World"
+            },
+            {
+              "id": 4,
+              "text": "World Web Wide"
+            }
+          ],
+          "answer": "World Wide Web"
+        },
+        {
+          "id": 95,
+          "question_text": "Junk email is also called",
+          "options": [
+            {
+              "id": 1,
+              "text": "Spam"
+            },
+            {
+              "id": 2,
+              "text": "Spoof"
+            },
+            {
+              "id": 3,
+              "text": "Sniffer"
+            },
+            {
+              "id": 4,
+              "text": "Jmail"
+            }
+          ],
+          "answer": "Spam"
+        },
+        {
+          "id": 96,
+          "question_text": "Which of the following is used to make presentation slides?",
+          "options": [
+            {
+              "id": 1,
+              "text": "Powerpoint"
+            },
+            {
+              "id": 2,
+              "text": "Word"
+            },
+            {
+              "id": 3,
+              "text": "Excel"
+            },
+            {
+              "id": 4,
+              "text": "Internet"
+            }
+          ],
+          "answer": "Powerpoint"
+        },
+        {
+          "id": 97,
+          "question_text": "Who is the father of the computer?",
+          "options": [
+            {
+              "id": 1,
+              "text": "Charles Babbage"
+            },
+            {
+              "id": 2,
+              "text": "Balise Pascal"
+            },
+            {
+              "id": 3,
+              "text": "Garden Moore"
+            },
+            {
+              "id": 4,
+              "text": "John Von Neumann"
+            }
+          ],
+          "answer": "Charles Babbage"
+        },
+        {
+          "id": 98,
+          "question_text": "Which of the following is used as memory in computers?",
+          "options": [
+            {
+              "id": 1,
+              "text": "RAM"
+            },
+            {
+              "id": 2,
+              "text": "Keyboard"
+            },
+            {
+              "id": 3,
+              "text": "Printer"
+            },
+            {
+              "id": 4,
+              "text": "Mouse"
+            }
+          ],
+          "answer": "RAM"
+        },
+        {
+          "id": 99,
+          "question_text": "MS-Word is an example of ………………………",
+          "options": [
+            {
+              "id": 1,
+              "text": "Operating System"
+            },
+            {
+              "id": 2,
+              "text": "Application Software"
+            },
+            {
+              "id": 3,
+              "text": "Output Device"
+            },
+            {
+              "id": 4,
+              "text": "Processing Device"
+            }
+          ],
+          "answer": "Application Software"
+        },
+        {
+          "id": 100,
+          "question_text": "The printed output from a computer is known as……..",
+          "options": [
+            {
+              "id": 1,
+              "text": "Soft copy"
+            },
+            {
+              "id": 2,
+              "text": "Hard Copy"
+            },
+            {
+              "id": 3,
+              "text": "Photo Copy"
+            },
+            {
+              "id": 4,
+              "text": "Paper"
+            }
+          ],
+          "answer": "Hard Copy"
         }
       ]
     }
