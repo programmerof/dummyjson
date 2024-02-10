@@ -1,0 +1,13 @@
+{
+    "name": "Test 1",
+    "universityImage": "https://c8.alamy.com/comp/E61M24/the-morehead-planetarium-and-science-centre-university-of-north-carolina-E61M24.jpg",
+    "fullMarks": 100,
+    "passMarks": 40,
+    "totalTime": "2 hours",
+    "method": "Multiple Choice",
+    "thingsToKnow": [
+        "Item 1",
+        "Item 2",
+        "Item 3"
+    ]
+}

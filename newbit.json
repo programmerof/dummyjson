@@ -1,0 +1,108 @@
+{
+    "categories": [
+      {
+        "category_name": "English",
+        "number_of_questions": 40,
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "I like ………… in my spare time",
+            "options": [
+              {
+                "id": 1,
+                "text": "to reading"
+              },
+              {
+                "id": 2,
+                "text": "read"
+              },
+              {
+                "id": 3,
+                "text": "to read"
+              },
+              {
+                "id": 4,
+                "text": "reading"
+              }
+            ],
+            "answer": 2
+          },
+          {
+            "id": 2,
+            "question_text": "I went to the bookshop .................... 'Harry Potter'.",
+            "options": [
+              {
+                "id": 1,
+                "text": "to buy"
+              },
+              {
+                "id": 2,
+                "text": "to buying"
+              },
+              {
+                "id": 3,
+                "text": "for to buy"
+              },
+              {
+                "id": 4,
+                "text": "for buying"
+              }
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "category_name": "Math",
+        "number_of_questions": 40,
+        "questions": [
+          {
+            "id": 41,
+            "question_text": "Every rational number is also",
+            "options": [
+              {
+                "id": 1,
+                "text": "a natural number"
+              },
+              {
+                "id": 2,
+                "text": "an integer"
+              },
+              {
+                "id": 3,
+                "text": "a whole number"
+              },
+              {
+                "id": 4,
+                "text": "a real number"
+              }
+            ],
+            "answer": 4
+          },
+          {
+            "id": 42,
+            "question_text": "Which of the following numbers is rational?",
+            "options": [
+              {
+                "id": 1,
+                "text": "-1"
+              },
+              {
+                "id": 2,
+                "text": "0"
+              },
+              {
+                "id": 3,
+                "text": "0.5"
+              },
+              {
+                "id": 4,
+                "text": "3/4"
+              }
+            ],
+            "answer": 4
+          }
+        ]
+      }
+    ]
+  }
