@@ -8,6 +8,7 @@
         "mathematics": {
             "year": 2023,
             "fullmarks":25,
+            "NumberOfQuestion":25,
             "subtopics": {
                 "Algebra": [
                     {
@@ -110,6 +111,7 @@
         "english": {
             "year": 2022,
             "fullmarks":15,
+            "NumberOfQuestion":15,
             "subtopics": {
                 "Grammar": [
                     {
@@ -165,6 +167,7 @@
         "physics": {
             "year": 2023,
             "fullmarks":25,
+            "NumberOfQuestion":25,
             "subtopics": {
                 "Which of the following pair have same dimension?": [
                     {
@@ -221,6 +224,7 @@
         "chemistry": {
             "year": 2023,
             "fullmarks":25,
+            "NumberOfQuestion":25,
             "subtopics": {
                 "Azimuthal quantum number describes": [
                     {
@@ -277,6 +281,7 @@
         "computer": {
             "year": 2023,
             "fullmarks":10,
+            "NumberOfQuestion":10,
             "subtopics": {
                 "Analog computer works on the supply of": [
                     {
