@@ -7,284 +7,323 @@
     "subjects": {
         "mathematics": {
             "year": 2023,
-            "subtopics": [
-                "Algebra",
-                "Coordinate geometry",
-                "Trigonometry",
-                "Calculus",
-                "Vectors"
-            ],
-            "questions": [
-                {
-                    "id": 1,
-                    "question": "Number of nonempty singleton subsets from the elements of the set {l, m, n, p} is",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "4"
-                        },
-                        {
-                            "id": 2,
-                            "text": "3"
-                        },
-                        {
-                            "id": 3,
-                            "text": "2"
-                        },
-                        {
-                            "id": 4,
-                            "text": "1"
-                        }
-                    ],
-                    "answer": "2"
-                },
-                {
-                    "id": 2,
-                    "question": "Let f : AB, then f is invertible if",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "f is one-one"
-                        },
-                        {
-                            "id": 2,
-                            "text": "f is onto"
-                        },
-                        {
-                            "id": 3,
-                            "text": "f is both one-one and onto"
-                        },
-                        {
-                            "id": 4,
-                            "text": "f is one-one into"
-                        }
-                    ],
-                    "answer": "f is both one-one and onto"
-                }
-            ]
+            "subtopics": {
+                "Algebra": [
+                    {
+                        "id": 1,
+                        "question": "Number of nonempty singleton subsets from the elements of the set {l, m, n, p} is",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "4"
+                            },
+                            {
+                                "id": 2,
+                                "text": "3"
+                            },
+                            {
+                                "id": 3,
+                                "text": "2"
+                            },
+                            {
+                                "id": 4,
+                                "text": "1"
+                            }
+                        ],
+                        "answer": "2"
+                    },
+                    {
+                        "id": 6,
+                        "question": "If the function 𝑓(𝑥) = {...",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "Continuous at 𝑥 = 2"
+                            },
+                            {
+                                "id": 2,
+                                "text": "discontinuous at 𝑥 = 2"
+                            },
+                            {
+                                "id": 3,
+                                "text": "removable discontinuous at 𝑥 = 2"
+                            },
+                            {
+                                "id": 4,
+                                "text": "does not exist"
+                            }
+                        ],
+                        "answer": "Continuous at 𝑥 = 2"
+                    }
+                ],
+                "Calculus": [
+                    {
+                        "id": 4,
+                        "question": "lim𝑥→∞ (1 + 3 𝑥) 𝑥 is equal to",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "𝑒^3"
+                            },
+                            {
+                                "id": 2,
+                                "text": "3𝑒"
+                            },
+                            {
+                                "id": 3,
+                                "text": "3𝑒^3"
+                            },
+                            {
+                                "id": 4,
+                                "text": "1/𝑒^3"
+                            }
+                        ],
+                        "answer": "𝑒^3"
+                    },
+                    {
+                        "id": 5,
+                        "question": "lim𝑥→∞ 𝑠𝑖𝑛𝑥/𝑥 is equal to",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "3"
+                            },
+                            {
+                                "id": 2,
+                                "text": "2"
+                            },
+                            {
+                                "id": 3,
+                                "text": "1"
+                            },
+                            {
+                                "id": 4,
+                                "text": "0"
+                            }
+                        ],
+                        "answer": "1"
+                    }
+                ]
+            }
         },
         "english": {
             "year": 2022,
-            "subtopics": [
-                "Grammar",
-                "Synonyms and antonyms"
-            ],
-            "questions": [
-                {
-                    "id": 76,
-                    "question": "The word \"permissible\" is accented on its .....syllable.",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "1st"
-                        },
-                        {
-                            "id": 2,
-                            "text": "2nd"
-                        },
-                        {
-                            "id": 3,
-                            "text": "3rd"
-                        },
-                        {
-                            "id": 4,
-                            "text": "none of the above"
-                        }
-                    ],
-                    "answer": "2nd"
-                },
-                {
-                    "id": 77,
-                    "question": "Which of the following word gets stress on the first syllable ?",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "perish"
-                        },
-                        {
-                            "id": 2,
-                            "text": "incredible"
-                        },
-                        {
-                            "id": 3,
-                            "text": "incur"
-                        },
-                        {
-                            "id": 4,
-                            "text": "temerity"
-                        }
-                    ],
-                    "answer": "perish"
-                }
-            ]
+            "subtopics": {
+                "Grammar": [
+                    {
+                        "id": 76,
+                        "question": "The word \"permissible\" is accented on its .....syllable.",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "1st"
+                            },
+                            {
+                                "id": 2,
+                                "text": "2nd"
+                            },
+                            {
+                                "id": 3,
+                                "text": "3rd"
+                            },
+                            {
+                                "id": 4,
+                                "text": "none of the above"
+                            }
+                        ],
+                        "answer": "2nd"
+                    },
+                    {
+                        "id": 77,
+                        "question": "Which of the following word gets stress on the first syllable ?",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "perish"
+                            },
+                            {
+                                "id": 2,
+                                "text": "incredible"
+                            },
+                            {
+                                "id": 3,
+                                "text": "incur"
+                            },
+                            {
+                                "id": 4,
+                                "text": "temerity"
+                            }
+                        ],
+                        "answer": "perish"
+                    }
+                ],
+                "Synonyms and antonyms": []
+            }
         },
         "physics": {
             "year": 2023,
-            "subtopics": [
-                "Which of the following pair have same dimension?",
-                "A bullet fired into a fixed target loses half of its velocity after penetrating 3 cm, the further distance travelled before coming to rest is",
-                "The horizontal range is 4√3 times the maximum height in a projectile motion. The angle of projection is"
-            ],
-            "questions": [
-                {
-                    "id": 26,
-                    "question": "Which of the following pair have same dimension?",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "L/R and CR"
-                        },
-                        {
-                            "id": 2,
-                            "text": "LR and CR"
-                        },
-                        {
-                            "id": 3,
-                            "text": "R/L and [LC]1/2"
-                        },
-                        {
-                            "id": 4,
-                            "text": "CR and 1/LC"
-                        }
-                    ],
-                    "answer": "LR and CR"
-                },
-                {
-                    "id": 27,
-                    "question": "A bullet fired into a fixed target loses half of its velocity after penetrating 3 cm, the further distance travelled before coming to rest is",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "4 cm."
-                        },
-                        {
-                            "id": 2,
-                            "text": "2 cm."
-                        },
-                        {
-                            "id": 3,
-                            "text": "3 cm."
-                        },
-                        {
-                            "id": 4,
-                            "text": "1 cm."
-                        }
-                    ],
-                    "answer": "4 cm."
-                }
-            ]
+            "subtopics": {
+                "Which of the following pair have same dimension?": [
+                    {
+                        "id": 26,
+                        "question": "Which of the following pair have same dimension?",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "L/R and CR"
+                            },
+                            {
+                                "id": 2,
+                                "text": "LR and CR"
+                            },
+                            {
+                                "id": 3,
+                                "text": "R/L and [LC]1/2"
+                            },
+                            {
+                                "id": 4,
+                                "text": "CR and 1/LC"
+                            }
+                        ],
+                        "answer": "LR and CR"
+                    }
+                ],
+                "A bullet fired into a fixed target loses half of its velocity after penetrating 3 cm, the further distance travelled before coming to rest is": [
+                    {
+                        "id": 27,
+                        "question": "A bullet fired into a fixed target loses half of its velocity after penetrating 3 cm, the further distance travelled before coming to rest is",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "4 cm."
+                            },
+                            {
+                                "id": 2,
+                                "text": "2 cm."
+                            },
+                            {
+                                "id": 3,
+                                "text": "3 cm."
+                            },
+                            {
+                                "id": 4,
+                                "text": "1 cm."
+                            }
+                        ],
+                        "answer": "4 cm."
+                    }
+                ]
+            }
         },
         "chemistry": {
             "year": 2023,
-            "subtopics": [
-                "Azimuthal quantum number describes",
-                "The radioactive rays having highest penetrating power is",
-                "Which of the following has an electrovalent linkage?"
-            ],
-            "questions": [
-                {
-                    "id": 51,
-                    "question": "Azimuthal quantum number describes",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "orbital size"
-                        },
-                        {
-                            "id": 2,
-                            "text": "orbital orientation"
-                        },
-                        {
-                            "id": 3,
-                            "text": "orbital shape"
-                        },
-                        {
-                            "id": 4,
-                            "text": "nuclear stability"
-                        }
-                    ],
-                    "answer": "orbital shape"
-                },
-                {
-                    "id": 52,
-                    "question": "The radioactive rays having highest penetrating power is",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "αrays"
-                        },
-                        {
-                            "id": 2,
-                            "text": "β rays"
-                        },
-                        {
-                            "id": 3,
-                            "text": " rays"
-                        },
-                        {
-                            "id": 4,
-                            "text": "all have equal penetrating power"
-                        }
-                    ],
-                    "answer": "αrays"
-                }
-            ]
+            "subtopics": {
+                "Azimuthal quantum number describes": [
+                    {
+                        "id": 51,
+                        "question": "Azimuthal quantum number describes",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "orbital size"
+                            },
+                            {
+                                "id": 2,
+                                "text": "orbital orientation"
+                            },
+                            {
+                                "id": 3,
+                                "text": "orbital shape"
+                            },
+                            {
+                                "id": 4,
+                                "text": "nuclear stability"
+                            }
+                        ],
+                        "answer": "orbital shape"
+                    }
+                ],
+                "The radioactive rays having highest penetrating power is": [
+                    {
+                        "id": 52,
+                        "question": "The radioactive rays having highest penetrating power is",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "αrays"
+                            },
+                            {
+                                "id": 2,
+                                "text": "β rays"
+                            },
+                            {
+                                "id": 3,
+                                "text": " rays"
+                            },
+                            {
+                                "id": 4,
+                                "text": "all have equal penetrating power"
+                            }
+                        ],
+                        "answer": "αrays"
+                    }
+                ]
+            }
         },
         "computer": {
             "year": 2023,
-            "subtopics": [
-                "Analog computer works on the supply of",
-                "We can make use of the wild card entries such as ……….. in Windows Explorer.",
-                "Which of the following is the second largest measurement of RAM?"
-            ],
-            "questions": [
-                {
-                    "id": 91,
-                    "question": "Analog computer works on the supply of",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "physical strength."
-                        },
-                        {
-                            "id": 2,
-                            "text": "natural strength."
-                        },
-                        {
-                            "id": 3,
-                            "text": "magnetic strength."
-                        },
-                        {
-                            "id": 4,
-                            "text": "continuous electrical pulses."
-                        }
-                    ],
-                    "answer": "continuous electrical pulses."
-                },
-                {
-                    "id": 92,
-                    "question": "We can make use of the wild card entries such as ……….. in Windows Explorer.",
-                    "options": [
-                        {
-                            "id": 1,
-                            "text": "#,@"
-                        },
-                        {
-                            "id": 2,
-                            "text": "^,*"
-                        },
-                        {
-                            "id": 3,
-                            "text": "?,*"
-                        },
-                        {
-                            "id": 4,
-                            "text": "?,#"
-                        }
-                    ],
-                    "answer": "?,*"
-                }
-            ]
+            "subtopics": {
+                "Analog computer works on the supply of": [
+                    {
+                        "id": 91,
+                        "question": "Analog computer works on the supply of",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "physical strength."
+                            },
+                            {
+                                "id": 2,
+                                "text": "natural strength."
+                            },
+                            {
+                                "id": 3,
+                                "text": "magnetic strength."
+                            },
+                            {
+                                "id": 4,
+                                "text": "continuous electrical pulses."
+                            }
+                        ],
+                        "answer": "continuous electrical pulses."
+                    }
+                ],
+                "We can make use of the wild card entries such as ……….. in Windows Explorer.": [
+                    {
+                        "id": 92,
+                        "question": "We can make use of the wild card entries such as ……….. in Windows Explorer.",
+                        "options": [
+                            {
+                                "id": 1,
+                                "text": "#,@"
+                            },
+                            {
+                                "id": 2,
+                                "text": "^,*"
+                            },
+                            {
+                                "id": 3,
+                                "text": "?,*"
+                            },
+                            {
+                                "id": 4,
+                                "text": "?,#"
+                            }
+                        ],
+                        "answer": "?,*"
+                    }
+                ]
+            }
         }
     }
 }
