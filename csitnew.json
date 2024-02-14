@@ -1,7 +1,10 @@
 {
     "program": "Bachelor in Science, Computer Science and IT",
     "abbreviation": "bscCsit",
+    
     "university": "Tribhuvan University",
+    "University image":"https://ongpng.com/wp-content/uploads/2023/04/14-7.png",
+
     "degree": "Bachelors",
     "duration": "4 years",
     "subjects": {
