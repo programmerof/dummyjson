@@ -1,0 +1,65 @@
+{
+    "faq": [
+      {
+        "id": 1,
+        "question": "What is McqHubspotNepal, and how does it stand out from other MCQ platforms?",
+        "tags": ["platform", "differentiation"],
+        "options": [
+          {"id": 1, "text": "McqHubspotNepal is a platform for multiple-choice questions."},
+          {"id": 2, "text": "It stands out with its commitment to free and accessible education."},
+          {"id": 3, "text": "Other platforms prioritize profit over user assistance."}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "What kind of courses and exams does McqHubspotNepal cover?",
+        "tags": ["courses", "exams"],
+        "options": [
+          {"id": 4, "text": "NEA Level 7, Banking Sector, Current Affairs, and more."},
+          {"id": 5, "text": "Only government jobs and engineering courses."},
+          {"id": 6, "text": "Limited to specific fields with no diversity."}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "How can McqHubspotNepal support users in their exam preparation?",
+        "tags": ["support", "preparation"],
+        "options": [
+          {"id": 7, "text": "User-friendly interface and detailed analytics."},
+          {"id": 8, "text": "Limited features with no progress tracking."},
+          {"id": 9, "text": "Only provides basic exam materials."}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Is McqHubspotNepal truly free, and how can users contribute to the platform?",
+        "tags": ["free", "contribution"],
+        "options": [
+          {"id": 10, "text": "Yes, McqHubspotNepal is absolutely free."},
+          {"id": 11, "text": "Free for a limited time with hidden charges."},
+          {"id": 12, "text": "Contribution only allowed for premium users."}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "How advanced is McqHubspotNepal in terms of technology and user experience?",
+        "tags": ["technology", "user experience"],
+        "options": [
+          {"id": 13, "text": "Employs the latest internet building technology."},
+          {"id": 14, "text": "Uses outdated technology with slow performance."},
+          {"id": 15, "text": "Lacks advanced features and user-friendly design."}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Can users participate in quizzes and submit their own questions to McqHubspotNepal?",
+        "tags": ["participation", "user contribution"],
+        "options": [
+          {"id": 16, "text": "Yes, users can participate in quizzes."},
+          {"id": 17, "text": "No, user participation is not allowed."},
+          {"id": 18, "text": "Quizzes are only for premium users."}
+        ]
+      }
+    ]
+  }
+  
