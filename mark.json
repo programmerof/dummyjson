@@ -1,0 +1,228 @@
+[
+    {
+        "id": 1,
+        "name": "loksewa preparation gk questions",
+        "courses": [
+            {
+                "id": 1,
+                "name": "vvi gk for loksewa and shikshak sewa exam ( सामान्य ज्ञान )"
+            },
+            {
+                "id": 2,
+                "name": "interesting facts about nepal | gk"
+            },
+            {
+                "id": 3,
+                "name": "interesting facts about world | gk"
+            },
+            {
+                "id": 4,
+                "name": "history of nepal gk ( nepal ko itihas )"
+            },
+            {
+                "id": 5,
+                "name": "literature gk ( sahitye gk )"
+            },
+            {
+                "id": 6,
+                "name": "world geography gk ( bishow ko bhugol )"
+            },
+            {
+                "id": 7,
+                "name": "corona virus gk"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "common medical entrance exam preparation",
+        "courses": [
+            {
+                "id": 8,
+                "name": "zoology mcqs for cee entrance"
+            },
+            {
+                "id": 9,
+                "name": "botany mcqs for cee entrance"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "engineering entrance preparation | bsc csit entrance preparation | ioe entrance preparation",
+        "courses": [
+            {
+                "id": 10,
+                "name": "physics mcqs ( also for cee entrance )"
+            },
+            {
+                "id": 11,
+                "name": "chemistry mcqs ( also for cee entrance )"
+            },
+            {
+                "id": 12,
+                "name": "english grammar mcq"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "engineering loksewa preparation",
+        "courses": [
+            {
+                "id": 13,
+                "name": "civil engineering loksewa preparation | for all level"
+            },
+            {
+                "id": 14,
+                "name": "electrical engineering loksewa preparation"
+            },
+            {
+                "id": 15,
+                "name": "electronics and communication all level"
+            },
+            {
+                "id": 16,
+                "name": "computer engineer all level"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "loksewa preparation model questions",
+        "courses": [
+            {
+                "id": 17,
+                "name": "computer operator loksewa exam questions"
+            },
+            {
+                "id": 18,
+                "name": "shikshak sewa aayog exam model questions | teaching license exam model questions"
+            },
+            {
+                "id": 19,
+                "name": "banking loksewa exam questions | nrb rbb nbl adbl and others bank exam preparation"
+            },
+            {
+                "id": 20,
+                "name": "iq ( intelligent questions ) important questions for competitive exam"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "nepal police , nepal army and apf exam preparation",
+        "courses": [
+            {
+                "id": 21,
+                "name": "nepal police loksewa exam questions"
+            },
+            {
+                "id": 22,
+                "name": "nepal army loksewa exam questions"
+            },
+            {
+                "id": 23,
+                "name": "anusandhan aayog exam questions"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "medical loksewa preparation | license exam model questions",
+        "courses": [
+            {
+                "id": 24,
+                "name": "ahw , anm , cma , staff nurse and ha loksewa exam questions"
+            },
+            {
+                "id": 25,
+                "name": "auxiliary nurse midwife ( a. n. m ) loksewa exam questions"
+            },
+            {
+                "id": 26,
+                "name": "nursing loksewa preparation | staff nurse loksewa preparation | nursing license exam mcq's"
+            },
+            {
+                "id": 27,
+                "name": "lab technician loksewa questions"
+            },
+            {
+                "id": 28,
+                "name": "pharmacy loksewa questions | pharmacy license exam model questions"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "cmat entrance model questions ( tu , ku , pu )",
+        "courses": [
+            {
+                "id": 29,
+                "name": "verbal section"
+            },
+            {
+                "id": 30,
+                "name": "quantitative / numerical reasoning"
+            },
+            {
+                "id": 31,
+                "name": "logical reasoning"
+            },
+            {
+                "id": 32,
+                "name": "general awareness/ knowledge"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "सार्वजनिक सस्थान तयारी",
+        "courses": [
+            {
+                "id": 33,
+                "name": "nepal electricity authority loksewa preparation"
+            },
+            {
+                "id": 34,
+                "name": "nepal telecom ntc tayari"
+            },
+            {
+                "id": 35,
+                "name": "civil aviation authority of nepal caan"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "+2 science , ctevt , pcl & a level entrance exam preparation",
+        "courses": [
+            {
+                "id": 36,
+                "name": "science"
+            },
+            {
+                "id": 37,
+                "name": "mathematics"
+            },
+            {
+                "id": 38,
+                "name": "english"
+            },
+            {
+                "id": 39,
+                "name": "+2 science & ctevt pcl entrance exam model question"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "driving license written exam questions",
+        "courses": [
+            {
+                "id": 40,
+                "name": "driving license model questions"
+            }
+        ]
+    }
+]
