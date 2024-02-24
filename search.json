@@ -1,0 +1,38 @@
+{
+    "Medical": [
+      {
+        "name": "MECEE",
+        "purpose": "Medical and dental postgraduate programs"
+      }
+    ],
+    "Law": [
+      {
+        "name": "Lok Sewa Aayog Exams",
+        "purpose": "Various government law positions"
+      }
+    ],
+    "Engineering": [
+      {
+        "name": "TU Entrance Exams",
+        "purpose": "Various engineering undergraduate programs"
+      }
+    ],
+    "Management": [
+      {
+        "name": "CMAT",
+        "purpose": "Various management programs"
+      }
+    ],
+    "Banking": [
+      {
+        "name": "Nepal Bank Limited Exams",
+        "purpose": "Various banking positions"
+      }
+    ],
+    "Administration": [
+      {
+        "name": "Nepal Administrative Staff College Exams",
+        "purpose": "Various administrative positions"
+      }
+    ]
+  }
